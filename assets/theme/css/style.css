@@ -2045,13 +2045,13 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 /* msg-box4 */
 .mbr-iconfont.mbr-iconfont-msg-box4,
 .mbr-iconfont.mbr-iconfont-msg-box5 {
-  font-size: 357px;
+  font-size: 250px;
   text-decoration: none;
   color: #232323; }
 
 /* header2 */
 .mbr-iconfont.mbr-iconfont-header2 {
-  font-size: 400px;
+  font-size: 250px;
   text-decoration: none;
   color: #fff; }
 
@@ -2127,7 +2127,10 @@ html.is-builder .article .lead:not([data-app-remove-it]) + div .btn {
 
 .image-size {
   vertical-align: middle;
-  margin: auto; }
+  margin: auto;
+  text-align: center; }
+  .image-size .mbr-figure {
+    padding-top: 3px; }
 
 @media (max-width: 768px) {
   .image-size {
