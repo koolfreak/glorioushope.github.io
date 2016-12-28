@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.com",
-    "currentPage": "index.html",
+    "currentPage": "Real People.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,10 +23,13 @@
     "versionFirst": "3.9.2",
     "uniqCompNum": 177,
     "versionPublish": "3.10.3",
-    "favicon": "@PROJECT_PATH@/assets/images/gh-person-orange-128x123-84.png",
+    "favicon": "file:///Users/Macky/Google",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "file:///Users/Macky/Google%20Drive/CCF/Glorious%20Hope/Marketing%20and%20Media%20Communications/Website/glorioushope.github.io"
   },
   "pages": {
     "index.html": {
@@ -136,7 +139,10 @@
           "_styles": {
             ".mbr-section-lead": {
               "font-size": "18px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center"
             },
             ".mbr-section-title": {
               "color": "#ffffff",
@@ -157,7 +163,7 @@
             },
             "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.3",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -165,7 +171,7 @@
             "showButtons": true
           },
           "title": "GLORIOUS HOPE",
-          "text": "<br>Glorious Hope is a recovery program that helps people deal with their personal issues by gradually uncovering deeply buried childhood hurts that greatly affect how they view themselves, others, their circumstances, and consequently, how they behave.<br>This program provides the necessary tools in understanding the relevance of unaddressed hurts in the past and the importance of addressing them in order to let go and move on to fostering spiritual maturity.<br>",
+          "text": "<br>Glorious Hope is a recovery program that helps people deal with their personal issues by gradually uncovering deeply buried childhood hurts that greatly affect how they view themselves, others, their circumstances, and consequently, how they behave.<br><br>This program provides the necessary tools in understanding the relevance of unaddressed hurts in the past and the importance of addressing them in order to let go and move on to fostering spiritual maturity.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Join.html\" data-toolbar=\"-mbrBtnMove\">JOIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Testimonies.html\" data-toolbar=\"-mbrBtnMove\">REAL PEOPLE</a>"
         },
         {
@@ -4258,7 +4264,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "Testimonies Sub Page.html",
+              "link": "Real People Sub Page.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -4267,7 +4273,7 @@
           "title5": "Other testimonies",
           "subtitle5": "",
           "caption5": "Description here description here",
-          "button5": "<a data-app-btn=\"true\" href=\"Testimonies Sub Page.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"Real People Sub Page.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -4973,7 +4979,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-5710218.jpg",
+              "src": "file:///Users/Macky/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-600x403-57102.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4989,7 +4995,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-9910319.jpg",
+              "src": "file:///Users/Macky/Library/Application%20Support/Mobirise.com/Mobirise/projectData/male-portrait-600x403-99103.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5005,7 +5011,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-3610420.jpg",
+              "src": "file:///Users/Macky/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-2-600x403-36104.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5021,7 +5027,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-7910521.jpg",
+              "src": "file:///Users/Macky/Library/Application%20Support/Mobirise.com/Mobirise/projectData/male-portrait-2-600x403-79105.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5037,7 +5043,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-2410622.jpg",
+              "src": "file:///Users/Macky/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-600x403-24106.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5053,7 +5059,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-4610723.jpg",
+              "src": "file:///Users/Macky/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-2-600x403-46107.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5108,7 +5114,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-5710218.jpg",
+              "src": "file:///Users/Macky/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-600x403-57102.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5124,7 +5130,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-9910319.jpg",
+              "src": "file:///Users/Macky/Library/Application%20Support/Mobirise.com/Mobirise/projectData/male-portrait-600x403-99103.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5140,7 +5146,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-3610420.jpg",
+              "src": "file:///Users/Macky/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-2-600x403-36104.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5156,7 +5162,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-7910521.jpg",
+              "src": "file:///Users/Macky/Library/Application%20Support/Mobirise.com/Mobirise/projectData/male-portrait-2-600x403-79105.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5172,7 +5178,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-2410622.jpg",
+              "src": "file:///Users/Macky/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-600x403-24106.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5188,7 +5194,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-4610723.jpg",
+              "src": "file:///Users/Macky/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-2-600x403-46107.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
