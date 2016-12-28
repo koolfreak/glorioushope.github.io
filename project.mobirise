@@ -1,7 +1,11 @@
 {
   "settings": {
     "name": "glorioushope.com",
+<<<<<<< HEAD
     "currentPage": "Real People Sub Page.html",
+=======
+    "currentPage": "index.html",
+>>>>>>> origin/master
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,14 +26,18 @@
     },
     "versionFirst": "3.9.2",
     "uniqCompNum": 173,
-    "versionPublish": "3.10.3",
+    "versionPublish": "3.10.2",
     "favicon": "@PROJECT_PATH@/assets/images/gh-person-orange-128x123-87.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
     "publishFtpPath": "public_html",
     "publishType": "local",
+<<<<<<< HEAD
     "publishPath": "file:///Users/Macky/Google%20Drive/CCF/Glorious%20Hope/Marketing%20and%20Media%20Communications/Website/glorioushope.github.io"
+=======
+    "publishPath": "file:///Users/mackydayoja/Google%20Drive/CCF/Glorious%20Hope/Marketing%20and%20Media%20Communications/Website/glorioushope.github.io"
+>>>>>>> origin/master
   },
   "pages": {
     "index.html": {
@@ -4660,7 +4668,11 @@
           "title6": "Experiencing God’s Hand",
           "subtitle6": "Annabelle Young",
           "caption6": "In my life, I have experienced the hands of God in so many ways. Looking back, I can see so much more clearly...",
+<<<<<<< HEAD
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>"
+=======
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+>>>>>>> origin/master
         },
         {
           "_tags": [
@@ -4791,7 +4803,11 @@
           "title6": "Experiencing God’s Hand",
           "subtitle6": "Annabelle Young",
           "caption6": "In my life, I have experienced the hands of God in so many ways. Looking back, I can see so much more clearly...",
+<<<<<<< HEAD
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>"
+=======
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+>>>>>>> origin/master
         },
         {
           "_tags": [
@@ -4922,7 +4938,11 @@
           "title6": "Experiencing God’s Hand",
           "subtitle6": "Annabelle Young",
           "caption6": "In my life, I have experienced the hands of God in so many ways. Looking back, I can see so much more clearly...",
+<<<<<<< HEAD
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>"
+=======
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+>>>>>>> origin/master
         },
         {
           "_inherit": "social-buttons2",
