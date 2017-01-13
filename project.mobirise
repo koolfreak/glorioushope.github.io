@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.com",
-    "currentPage": "index.html",
+    "currentPage": "Join.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,264 +21,14 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 173,
+    "uniqCompNum": 196,
     "versionPublish": "3.10.2",
-    "favicon": "@PROJECT_PATH@/assets/images/gh-person-orange-128x123-87.png",
+    "favicon": "file:///Users/Macky/Google",
     "noImageResize": "",
-    "google-analytics": "",
-    "cookiesAlert": "",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "file:///Users/mackydayoja/Google%20Drive/CCF/Glorious%20Hope/Marketing%20and%20Media%20Communications/Website/glorioushope.github.io"
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-77861731-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "cookiesAlert": ""
   },
   "pages": {
-    "index.html": {
-      "settings": {
-        "main": true,
-        "title": "Glorious Hope",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 1
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#41a85f!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-0",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ghlogo-371x128-77.png",
-              "height": 128,
-              "alt": "Glorious Hope",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Real People.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Shop.html\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "18px",
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          },
-          "_anchor": "header1-2",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/backgroundv2-2000x1125-51.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "GLORIOUS HOPE",
-          "text": "<br>Glorious Hope is a recovery program that helps people deal with their personal issues by gradually uncovering deeply buried childhood hurts that greatly affect how they view themselves, others, their circumstances, and consequently, how they behave.<br>This program provides the necessary tools in understanding the relevance of unaddressed hurts in the past and the importance of addressing them in order to let go and move on to fostering spiritual maturity.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Join.html\" data-toolbar=\"-mbrBtnMove\">JOIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Testimonies.html\" data-toolbar=\"-mbrBtnMove\">REAL PEOPLE</a>"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "20px",
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-s",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#414141",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"http://facbook.com/ghprogram\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCGn2OWlpTC9C6mO_QYHDVNw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/glorious.hope/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://twitter.com/GloriousHopeCCF\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>     "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "STRONG": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "contacts1-c",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/ghlogo-128x44-56.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "Glorious Hope",
-              "title": "Glorious Hope",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "facebook",
-              "family": "et-line",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>\n3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+63 (908) 607 9389",
-          "text3": "<p><strong>Locations</strong><br><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"https://www.facebook.com/ghalabang\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.facebook.com/ghkatipunan\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"https://www.facebook.com/Glorious-Hope-Malolos-349867195379527/\" target=\"_blank\">CCF Malolos</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br></a></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "right"
-            }
-          },
-          "_anchor": "footer1-r",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "©  2016 Glorious Hope"
-        }
-      ]
-    },
     "Join.html": {
       "settings": {
         "title": "Glorious Hope - Registration",
@@ -347,7 +97,7 @@
           "_anchor": "menu-4",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -434,15 +184,15 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/backgroundv2-2000x1125-97.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bigstock-group-of-diverse-hands-togethe-109645244-583x389-2000x1334-10.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
             "contentAlign": "left",
             "showTitle": true,
@@ -473,14 +223,14 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/backgroundv2-2000x1125-58.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gh-workers-12-2000x1125-61.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "left",
@@ -512,14 +262,14 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/backgroundv2-2000x1125-29.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mockup-863469-1920-2000x1123-48.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "left",
@@ -551,14 +301,14 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/backgroundv2-2000x1125-69.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/audience-868074-1920-2000x1329-29.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "left",
@@ -605,6 +355,32 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-r",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "©  2016 Glorious Hope"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_styles": {
             "P": {
@@ -614,7 +390,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "contacts1-c",
+          "_anchor": "contacts1-15",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -647,40 +423,14 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+63 (908) 607 9389",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596</p><p>Smart: +63 (908) 607 9389</p>",
           "text3": "<p><strong>Locations</strong><br><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"https://www.facebook.com/ghalabang\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.facebook.com/ghkatipunan\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"https://www.facebook.com/Glorious-Hope-Malolos-349867195379527/\" target=\"_blank\">CCF Malolos</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br></a></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "right"
-            }
-          },
-          "_anchor": "footer1-r",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "©  2016 Glorious Hope"
         }
       ]
     },
     "About.html": {
       "settings": {
-        "title": "Glorious Hope - About",
+        "title": "Glorious Hope",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -688,98 +438,6 @@
         "order": 2
       },
       "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.8rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#272727"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#393939!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#414141"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#41a85f!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-u",
-          "_params": {
-            "bgColor": "#414141",
-            "fontSize": "0.8",
-            "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ghlogo-371x128-77.png",
-              "height": 128,
-              "alt": "Glorious Hope",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Real People.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Shop.html\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
-        },
         {
           "_tags": [
             "Theme"
@@ -1120,6 +778,32 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-y",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "©  2016 Glorious Hope"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_styles": {
             "P": {
@@ -1129,7 +813,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "contacts1-x",
+          "_anchor": "contacts1-15",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -1162,34 +846,96 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+63 (908) 607 9389",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596</p><p>Smart: +63 (908) 607 9389</p>",
           "text3": "<p><strong>Locations</strong><br><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"https://www.facebook.com/ghalabang\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.facebook.com/ghkatipunan\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"https://www.facebook.com/Glorious-Hope-Malolos-349867195379527/\" target=\"_blank\">CCF Malolos</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br></a></p>"
         },
         {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "right"
+          "_name": "menu",
+          "_anchor": "menu-4y",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.75",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ghlogo-371x128-77.png",
+              "height": 128,
+              "alt": "Glorious Hope",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
-          "_anchor": "footer1-y",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "©  2016 Glorious Hope"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Real People.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Shop.html\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
         }
       ]
     },
@@ -1223,10 +969,10 @@
               "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1261,7 +1007,7 @@
           "_anchor": "menu-18",
           "_params": {
             "bgColor": "#414141",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -1394,7 +1140,7 @@
           },
           "title": "CCF CENTER",
           "text": "Frontera Verde, Ortigas Avenue corner C5 Road, Pasig City Pasig, Metro Manila<br><br>Office: +63 (2) 866 99 85<br>Globe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>+63 (908) 607 9389&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.google.com/maps/dir//CCF+Center,+Pasig,+Metro+Manila,+Philippines/@14.5891975,121.0438754,13z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x3397c80763256723:0x7a3cde40fe3b6497!2m2!1d121.078895!2d14.589117\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET DIRECTIONS</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.facebook.com/ghccfcenter\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>PAGE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.google.com/maps/dir//CCF+Center,+Pasig,+Metro+Manila,+Philippines/@14.5885355,121.0774332,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3397c80763256723:0x7a3cde40fe3b6497!2m2!1d121.078895!2d14.589117\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET DIRECTIONS</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.facebook.com/ghccfcenter\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>PAGE</a>"
         },
         {
           "_tags": [
@@ -1614,6 +1360,32 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-1c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "©  2016 Glorious Hope"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_styles": {
             "P": {
@@ -1623,7 +1395,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "contacts1-1b",
+          "_anchor": "contacts1-15",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -1656,34 +1428,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+63 (908) 607 9389",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596</p><p>Smart: +63 (908) 607 9389</p>",
           "text3": "<p><strong>Locations</strong><br><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"https://www.facebook.com/ghalabang\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.facebook.com/ghkatipunan\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"https://www.facebook.com/Glorious-Hope-Malolos-349867195379527/\" target=\"_blank\">CCF Malolos</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br></a></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "right"
-            }
-          },
-          "_anchor": "footer1-1c",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "©  2016 Glorious Hope"
         }
       ]
     },
@@ -1717,10 +1463,10 @@
               "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1755,7 +1501,7 @@
           "_anchor": "menu-1o",
           "_params": {
             "bgColor": "#414141",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -1854,7 +1600,7 @@
                 "showText": true,
                 "text": "Classic White (GH-HCW)",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DETAILS</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"Under Construction.html\" data-toolbar=\"-mbrBtnMove\">BUY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Under Construction.html\" data-toolbar=\"-mbrBtnMove\">DETAILS</a>"
               },
               {
                 "active": false,
@@ -1869,7 +1615,7 @@
                 "showText": true,
                 "text": "White (GH-HWT)",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DETAILS</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Under Construction.html\" data-toolbar=\"-mbrBtnMove\">BUY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Under Construction.html\" data-toolbar=\"-mbrBtnMove\">DETAILS</a>"
               },
               {
                 "active": false,
@@ -1884,7 +1630,7 @@
                 "showText": true,
                 "text": "Classic Gray (GH-HCG)<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DETAILS</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Under Construction.html\" data-toolbar=\"-mbrBtnMove\">BUY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Under Construction.html\" data-toolbar=\"-mbrBtnMove\">DETAILS</a>"
               },
               {
                 "active": false,
@@ -1899,7 +1645,7 @@
                 "showText": true,
                 "text": "Gray (GH-HGT)<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DETAILS</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Under Construction.html\" data-toolbar=\"-mbrBtnMove\">BUY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Under Construction.html\" data-toolbar=\"-mbrBtnMove\">DETAILS</a>"
               },
               {
                 "active": false,
@@ -1914,7 +1660,7 @@
                 "showText": true,
                 "text": "White (GH-CW)<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DETAILS</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Under Construction.html\" data-toolbar=\"-mbrBtnMove\">BUY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Under Construction.html\" data-toolbar=\"-mbrBtnMove\">DETAILS</a>"
               },
               {
                 "active": false,
@@ -1929,7 +1675,7 @@
                 "showText": true,
                 "text": "Plain (GH-TP)<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DETAILS</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Under Construction.html\" data-toolbar=\"-mbrBtnMove\">BUY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Under Construction.html\" data-toolbar=\"-mbrBtnMove\">DETAILS</a>"
               },
               {
                 "active": true,
@@ -1944,7 +1690,7 @@
                 "showText": true,
                 "text": "Lessons (GH-TL)<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DETAILS</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Under Construction.html\" data-toolbar=\"-mbrBtnMove\">BUY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Under Construction.html\" data-toolbar=\"-mbrBtnMove\">DETAILS</a>"
               }
             ],
             "fullScreen": false,
@@ -1989,6 +1735,32 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-1s",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "©  2016 Glorious Hope"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_styles": {
             "P": {
@@ -1998,7 +1770,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "contacts1-1r",
+          "_anchor": "contacts1-15",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -2031,34 +1803,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+63 (908) 607 9389",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596</p><p>Smart: +63 (908) 607 9389</p>",
           "text3": "<p><strong>Locations</strong><br><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"https://www.facebook.com/ghalabang\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.facebook.com/ghkatipunan\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"https://www.facebook.com/Glorious-Hope-Malolos-349867195379527/\" target=\"_blank\">CCF Malolos</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br></a></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "right"
-            }
-          },
-          "_anchor": "footer1-1s",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "©  2016 Glorious Hope"
         }
       ]
     },
@@ -2092,10 +1838,10 @@
               "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2130,7 +1876,7 @@
           "_anchor": "menu-1u",
           "_params": {
             "bgColor": "#414141",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -2257,7 +2003,7 @@
           "title1": "Online",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "It is now possible and convenient to<br>give online using this website.<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">GIVE ONLINE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">GIVE ONLINE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -2273,7 +2019,7 @@
           "title2": "Bank Transfer",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "You can transfer from your bank of choice directly to us.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BANK DETAILS</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BANK DETAILS</a>",
           "media3": {
             "iconFont": {
               "active": true,
@@ -2288,7 +2034,7 @@
           "title3": "As a business",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "If you would like to give on behalf of a business, please get in touch with us.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL US</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL US</a>",
           "media4": {
             "iconFont": {
               "active": true,
@@ -2370,6 +2116,32 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-1y",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "©  2016 Glorious Hope"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_styles": {
             "P": {
@@ -2379,7 +2151,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "contacts1-1x",
+          "_anchor": "contacts1-15",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -2412,34 +2184,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+63 (908) 607 9389",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596</p><p>Smart: +63 (908) 607 9389</p>",
           "text3": "<p><strong>Locations</strong><br><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"https://www.facebook.com/ghalabang\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.facebook.com/ghkatipunan\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"https://www.facebook.com/Glorious-Hope-Malolos-349867195379527/\" target=\"_blank\">CCF Malolos</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br></a></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "right"
-            }
-          },
-          "_anchor": "footer1-1y",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "©  2016 Glorious Hope"
         }
       ]
     },
@@ -2473,7 +2219,7 @@
           "_params": {
             "labelsColor": "#ffffff",
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/backgroundv2-2000x1125-84.jpg",
@@ -2483,10 +2229,10 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubTitle": true
+            "showSubTitle": false
           },
           "title": "CONTACT US",
-          "subtitle": "If you have any inquiries, comments, or suggestions about the Glorious Hope program, we'd love to hear from you.&nbsp;Help us to improve and grow in service of the Lord by sending us a message. We’ll make sure to get back to you as soon as possible.",
+          "subtitle": "If you have any inquiries, comments, or suggestions about the Glorious Hope program, we'd love to hear from you.&nbsp;<br>Help us to improve and grow in service of the Lord by sending us a message. We’ll make sure to get back to you as soon as possible.",
           "form": {
             "action": "info.glorioushope@gmail.com",
             "alerts": {
@@ -2536,10 +2282,10 @@
               "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2574,7 +2320,7 @@
           "_anchor": "menu-1z",
           "_params": {
             "bgColor": "#414141",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -2643,6 +2389,32 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-23",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "©  2016 Glorious Hope"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_styles": {
             "P": {
@@ -2652,7 +2424,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "contacts1-22",
+          "_anchor": "contacts1-15",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -2685,34 +2457,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+63 (908) 607 9389",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596</p><p>Smart: +63 (908) 607 9389</p>",
           "text3": "<p><strong>Locations</strong><br><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"https://www.facebook.com/ghalabang\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.facebook.com/ghkatipunan\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"https://www.facebook.com/Glorious-Hope-Malolos-349867195379527/\" target=\"_blank\">CCF Malolos</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br></a></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "right"
-            }
-          },
-          "_anchor": "footer1-23",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "©  2016 Glorious Hope"
         }
       ]
     },
@@ -3144,7 +2890,7 @@
           "_anchor": "menu-33",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -3977,7 +3723,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "contacts1-2y",
+          "_anchor": "contacts1-15",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -4010,7 +3756,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+63 (908) 607 9389",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596</p><p>Smart: +63 (908) 607 9389</p>",
           "text3": "<p><strong>Locations</strong><br><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"https://www.facebook.com/ghalabang\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.facebook.com/ghkatipunan\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"https://www.facebook.com/Glorious-Hope-Malolos-349867195379527/\" target=\"_blank\">CCF Malolos</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br></a></p>"
         }
       ]
@@ -4045,10 +3791,10 @@
               "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -4083,7 +3829,7 @@
           "_anchor": "menu-12",
           "_params": {
             "bgColor": "#414141",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -4165,7 +3911,11 @@
           "_styles": {
             "H4": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "17px"
+            },
+            "P": {
+              "font-size": "13px"
             }
           },
           "_anchor": "features3-1n",
@@ -4205,8 +3955,8 @@
           },
           "title1": "Resting In His Promises",
           "subtitle1": "Tiffany Ocampo",
-          "caption1": "I have always realized how privileged I am to have a closely knitted family. I grew up together with my 2 siblings loving one another and being close to our parents.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "caption1": "I have always realized how privileged I am to have a closely knitted family. I grew up together with my...",
+          "button1": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-99.jpg",
@@ -4221,8 +3971,8 @@
           },
           "title2": "Moving out, Moving In",
           "subtitle2": "Joseph Tanchi",
-          "caption2": "Moving out was one of the best things I ever did. It helped me find myself and discover who I was apart from my family &amp; friends.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "caption2": "Moving out was one of the best things I ever did. It helped me find myself and discover who I was apart...",
+          "button2": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-36.jpg",
@@ -4237,8 +3987,8 @@
           },
           "title3": "Experiencing God’s Hand",
           "subtitle3": "Annabelle Young",
-          "caption3": "In my life, I have experienced the hands of God in so many ways. Looking back, I can see so much more clearly now than I could before.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "caption3": "In my life, I have experienced the hands of God in so many ways. Looking back, I can see so much more clearly...",
+          "button3": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-79.jpg",
@@ -4253,24 +4003,24 @@
           },
           "title4": "Only by Grace",
           "subtitle4": "Jojo Macatangay",
-          "caption4": "Que sera sera… Whatever will be, will be… This was my motto before. I was the kind of person who didn’t take things seriously.&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "caption4": "Que sera sera… Whatever will be, will be… This was my motto before. I was the kind of person who didn’t take...",
+          "button4": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/more-600x403-37.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "Testimonies Sub Page.html",
+              "link": "Real People Sub Page.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title5": "Other testimonies",
+          "title5": "Other stories",
           "subtitle5": "",
-          "caption5": "Description here description here",
-          "button5": "<a data-app-btn=\"true\" href=\"Testimonies Sub Page.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
+          "caption5": "<span style=\"line-height: 1.5;\"><br></span><br><span style=\"line-height: 1.5;\">Description here description here</span><span style=\"line-height: 1.5;\"><br></span><br>",
+          "button5": "<a data-app-btn=\"true\" href=\"Real People Sub Page.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -4319,6 +4069,32 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-16",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "©  2016 Glorious Hope"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_styles": {
             "P": {
@@ -4361,34 +4137,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+63 (908) 607 9389",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596</p><p>Smart: +63 (908) 607 9389</p>",
           "text3": "<p><strong>Locations</strong><br><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"https://www.facebook.com/ghalabang\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.facebook.com/ghkatipunan\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"https://www.facebook.com/Glorious-Hope-Malolos-349867195379527/\" target=\"_blank\">CCF Malolos</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br></a></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "right"
-            }
-          },
-          "_anchor": "footer1-16",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "©  2016 Glorious Hope"
         }
       ]
     },
@@ -4459,10 +4209,10 @@
               "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -4497,7 +4247,7 @@
           "_anchor": "menu-2u",
           "_params": {
             "bgColor": "#414141",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -4539,7 +4289,11 @@
           "_styles": {
             "H4": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "17px"
+            },
+            "P": {
+              "font-size": "13px"
             }
           },
           "_anchor": "features3-2w",
@@ -4580,7 +4334,7 @@
           "title1": "Resting In His Promises",
           "subtitle1": "Tiffany Ocampo",
           "caption1": "I have always realized how privileged I am to have a closely knitted family. I grew up together with my...",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-99.jpg",
@@ -4595,8 +4349,8 @@
           },
           "title2": "Moving out, Moving In",
           "subtitle2": "Joseph Tanchi",
-          "caption2": "Moving out was one of the best things I ever did. It helped me find myself and discover who I was apart from my family...",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "caption2": "Moving out was one of the best things I ever did. It helped me find myself and discover who I was apart...",
+          "button2": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-36.jpg",
@@ -4612,7 +4366,7 @@
           "title3": "Experiencing God’s Hand",
           "subtitle3": "Annabelle Young",
           "caption3": "In my life, I have experienced the hands of God in so many ways. Looking back, I can see so much more clearly...",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-79.jpg",
@@ -4627,8 +4381,8 @@
           },
           "title4": "Only by Grace",
           "subtitle4": "Jojo Macatangay",
-          "caption4": "Que sera sera… Whatever will be, will be… This was my motto before. I was the kind of person who didn’t take things seriously...",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "caption4": "Que sera sera… Whatever will be, will be… This was my motto before. I was the kind of person who didn’t take...",
+          "button4": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-24.jpg",
@@ -4644,7 +4398,7 @@
           "title5": "Resting In His Promises",
           "subtitle5": "Tiffany Ocampo",
           "caption5": "I have always realized how privileged I am to have a closely knitted family. I grew up together with my...",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-46.jpg",
@@ -4660,7 +4414,33 @@
           "title6": "Experiencing God’s Hand",
           "subtitle6": "Annabelle Young",
           "caption6": "In my life, I have experienced the hands of God in so many ways. Looking back, I can see so much more clearly...",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-2z",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "©  2016 Glorious Hope"
         },
         {
           "_tags": [
@@ -4670,13 +4450,17 @@
           "_styles": {
             "H4": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "17px"
+            },
+            "P": {
+              "font-size": "13px"
             }
           },
-          "_anchor": "features3-31",
+          "_anchor": "features3-54",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -4698,7 +4482,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-57102.jpg",
+              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-57-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4711,10 +4495,10 @@
           "title1": "Resting In His Promises",
           "subtitle1": "Tiffany Ocampo",
           "caption1": "I have always realized how privileged I am to have a closely knitted family. I grew up together with my...",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-99103.jpg",
+              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-99-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4726,11 +4510,11 @@
           },
           "title2": "Moving out, Moving In",
           "subtitle2": "Joseph Tanchi",
-          "caption2": "Moving out was one of the best things I ever did. It helped me find myself and discover who I was apart from my family...",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "caption2": "Moving out was one of the best things I ever did. It helped me find myself and discover who I was apart...",
+          "button2": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-36104.jpg",
+              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-36-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4743,10 +4527,10 @@
           "title3": "Experiencing God’s Hand",
           "subtitle3": "Annabelle Young",
           "caption3": "In my life, I have experienced the hands of God in so many ways. Looking back, I can see so much more clearly...",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-79105.jpg",
+              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-79-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4758,11 +4542,11 @@
           },
           "title4": "Only by Grace",
           "subtitle4": "Jojo Macatangay",
-          "caption4": "Que sera sera… Whatever will be, will be… This was my motto before. I was the kind of person who didn’t take things seriously...",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "caption4": "Que sera sera… Whatever will be, will be… This was my motto before. I was the kind of person who didn’t take...",
+          "button4": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-24106.jpg",
+              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-24-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4775,10 +4559,10 @@
           "title5": "Resting In His Promises",
           "subtitle5": "Tiffany Ocampo",
           "caption5": "I have always realized how privileged I am to have a closely knitted family. I grew up together with my...",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-46107.jpg",
+              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-46-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4791,7 +4575,7 @@
           "title6": "Experiencing God’s Hand",
           "subtitle6": "Annabelle Young",
           "caption6": "In my life, I have experienced the hands of God in so many ways. Looking back, I can see so much more clearly...",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>"
         },
         {
           "_tags": [
@@ -4801,13 +4585,17 @@
           "_styles": {
             "H4": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "17px"
+            },
+            "P": {
+              "font-size": "13px"
             }
           },
-          "_anchor": "features3-32",
+          "_anchor": "features3-58",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": "2",
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -4829,7 +4617,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-57102.jpg",
+              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-57-2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4842,10 +4630,10 @@
           "title1": "Resting In His Promises",
           "subtitle1": "Tiffany Ocampo",
           "caption1": "I have always realized how privileged I am to have a closely knitted family. I grew up together with my...",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-99103.jpg",
+              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-99-2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4857,11 +4645,11 @@
           },
           "title2": "Moving out, Moving In",
           "subtitle2": "Joseph Tanchi",
-          "caption2": "Moving out was one of the best things I ever did. It helped me find myself and discover who I was apart from my family...",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "caption2": "Moving out was one of the best things I ever did. It helped me find myself and discover who I was apart...",
+          "button2": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-36104.jpg",
+              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-36-2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4874,10 +4662,10 @@
           "title3": "Experiencing God’s Hand",
           "subtitle3": "Annabelle Young",
           "caption3": "In my life, I have experienced the hands of God in so many ways. Looking back, I can see so much more clearly...",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-79105.jpg",
+              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-79-2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4889,11 +4677,11 @@
           },
           "title4": "Only by Grace",
           "subtitle4": "Jojo Macatangay",
-          "caption4": "Que sera sera… Whatever will be, will be… This was my motto before. I was the kind of person who didn’t take things seriously...",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "caption4": "Que sera sera… Whatever will be, will be… This was my motto before. I was the kind of person who didn’t take...",
+          "button4": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-24106.jpg",
+              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-24-2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4906,10 +4694,10 @@
           "title5": "Resting In His Promises",
           "subtitle5": "Tiffany Ocampo",
           "caption5": "I have always realized how privileged I am to have a closely knitted family. I grew up together with my...",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-46107.jpg",
+              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-46-2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4922,7 +4710,277 @@
           "title6": "Experiencing God’s Hand",
           "subtitle6": "Annabelle Young",
           "caption6": "In my life, I have experienced the hands of God in so many ways. Looking back, I can see so much more clearly...",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "17px"
+            },
+            "P": {
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "features3-59",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-57-2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Tiffany Ocampo",
+              "title": "Tiffany Ocampo",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Resting In His Promises",
+          "subtitle1": "Tiffany Ocampo",
+          "caption1": "I have always realized how privileged I am to have a closely knitted family. I grew up together with my...",
+          "button1": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-99-2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Joseph Tanchi",
+              "title": "Joseph Tanchi",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Moving out, Moving In",
+          "subtitle2": "Joseph Tanchi",
+          "caption2": "Moving out was one of the best things I ever did. It helped me find myself and discover who I was apart...",
+          "button2": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-36-2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Annabelle Young",
+              "title": "Annabelle Young",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Experiencing God’s Hand",
+          "subtitle3": "Annabelle Young",
+          "caption3": "In my life, I have experienced the hands of God in so many ways. Looking back, I can see so much more clearly...",
+          "button3": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-79-2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Jojo Macatangay",
+              "title": "Jojo Macatangay",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Only by Grace",
+          "subtitle4": "Jojo Macatangay",
+          "caption4": "Que sera sera… Whatever will be, will be… This was my motto before. I was the kind of person who didn’t take...",
+          "button4": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-24-2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Resting In His Promises",
+          "subtitle5": "Tiffany Ocampo",
+          "caption5": "I have always realized how privileged I am to have a closely knitted family. I grew up together with my...",
+          "button5": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-46-2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Experiencing God’s Hand",
+          "subtitle6": "Annabelle Young",
+          "caption6": "In my life, I have experienced the hands of God in so many ways. Looking back, I can see so much more clearly...",
+          "button6": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "17px"
+            },
+            "P": {
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "features3-5a",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-57-2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Tiffany Ocampo",
+              "title": "Tiffany Ocampo",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Resting In His Promises",
+          "subtitle1": "Tiffany Ocampo",
+          "caption1": "I have always realized how privileged I am to have a closely knitted family. I grew up together with my...",
+          "button1": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-99-2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Joseph Tanchi",
+              "title": "Joseph Tanchi",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Moving out, Moving In",
+          "subtitle2": "Joseph Tanchi",
+          "caption2": "Moving out was one of the best things I ever did. It helped me find myself and discover who I was apart...",
+          "button2": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-36-2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Annabelle Young",
+              "title": "Annabelle Young",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Experiencing God’s Hand",
+          "subtitle3": "Annabelle Young",
+          "caption3": "In my life, I have experienced the hands of God in so many ways. Looking back, I can see so much more clearly...",
+          "button3": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-79-2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Jojo Macatangay",
+              "title": "Jojo Macatangay",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Only by Grace",
+          "subtitle4": "Jojo Macatangay",
+          "caption4": "Que sera sera… Whatever will be, will be… This was my motto before. I was the kind of person who didn’t take...",
+          "button4": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-24-2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Resting In His Promises",
+          "subtitle5": "Tiffany Ocampo",
+          "caption5": "I have always realized how privileged I am to have a closely knitted family. I grew up together with my...",
+          "button5": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-46-2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Experiencing God’s Hand",
+          "subtitle6": "Annabelle Young",
+          "caption6": "In my life, I have experienced the hands of God in so many ways. Looking back, I can see so much more clearly...",
+          "button6": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -4968,7 +5026,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "contacts1-2y",
+          "_anchor": "contacts1-15",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -5001,8 +5059,182 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+63 (908) 607 9389",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596</p><p>Smart: +63 (908) 607 9389</p>",
           "text3": "<p><strong>Locations</strong><br><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"https://www.facebook.com/ghalabang\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.facebook.com/ghkatipunan\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"https://www.facebook.com/Glorious-Hope-Malolos-349867195379527/\" target=\"_blank\">CCF Malolos</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br></a></p>"
+        }
+      ]
+    },
+    "Under Construction.html": {
+      "settings": {
+        "title": "Glorious Hope - Under Construction",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-4y",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.75",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ghlogo-371x128-77.png",
+              "height": 128,
+              "alt": "Glorious Hope",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Real People.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Shop.html\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_anchor": "header1-4z",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/backgroundv2-2000x1125-51.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "THIS PAGE IS<br>UNDER CONSTRUCTION",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Join.html\" data-toolbar=\"-mbrBtnMove\">JOIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Real People.html\" data-toolbar=\"-mbrBtnMove\">REAL PEOPLE</a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-53",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#414141",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"http://facbook.com/ghprogram\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCGn2OWlpTC9C6mO_QYHDVNw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/glorious.hope/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://twitter.com/GloriousHopeCCF\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>     "
         },
         {
           "_tags": [
@@ -5015,7 +5247,7 @@
               "text-align": "right"
             }
           },
-          "_anchor": "footer1-2z",
+          "_anchor": "footer1-51",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -5029,6 +5261,305 @@
             "overlayColor": "#444444"
           },
           "text": "©  2016 Glorious Hope"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "STRONG": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-52",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ghlogo-128x44-61.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "et-line",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596</p><p>Smart: +63 (908) 607 9389</p>",
+          "text3": "<p><strong>Locations</strong><br><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"https://www.facebook.com/ghalabang\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.facebook.com/ghkatipunan\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"https://www.facebook.com/Glorious-Hope-Malolos-349867195379527/\" target=\"_blank\">CCF Malolos</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br></a></p>"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Glorious Hope",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.75",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ghlogo-371x128-77.png",
+              "height": 128,
+              "alt": "Glorious Hope",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Real People.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Shop.html\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_anchor": "header1-2",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/backgroundv2-2000x1125-51.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "GLORIOUS HOPE",
+          "text": "<br>Glorious Hope is a recovery program that helps people deal with their personal issues by gradually uncovering deeply buried childhood hurts that greatly affect how they view themselves, others, their circumstances, and consequently, how they behave.<br><br>This program provides the necessary tools in understanding the relevance of unaddressed hurts in the past and the importance of addressing them in order to let go and move on to fostering spiritual maturity.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Join.html\" data-toolbar=\"-mbrBtnMove\">JOIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Real People.html\" data-toolbar=\"-mbrBtnMove\">REAL PEOPLE</a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-s",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#414141",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"http://facbook.com/ghprogram\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCGn2OWlpTC9C6mO_QYHDVNw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/glorious.hope/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://twitter.com/GloriousHopeCCF\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>     "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-r",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "©  2016 Glorious Hope"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "STRONG": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-15",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ghlogo-128x44-61.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "et-line",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596</p><p>Smart: +63 (908) 607 9389</p>",
+          "text3": "<p><strong>Locations</strong><br><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"https://www.facebook.com/ghalabang\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.facebook.com/ghkatipunan\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"https://www.facebook.com/Glorious-Hope-Malolos-349867195379527/\" target=\"_blank\">CCF Malolos</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br></a></p>"
         }
       ]
     }
