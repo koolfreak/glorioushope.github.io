@@ -166,7 +166,7 @@
           },
           "title": "Be a part of the program.",
           "text": "Thank you for your interest in joining us at Glorious Hope!<br><br>There are several ways you can join:",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Join.html#header5-5j\" data-toolbar=\"-mbrBtnMove\">PARTICIPATE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"Join.html#header1-i\" data-toolbar=\"-mbrBtnMove\">VOLUNTEER</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Join.html#header1-j\" data-toolbar=\"-mbrBtnMove\">PARTICIPATE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"Join.html#header1-i\" data-toolbar=\"-mbrBtnMove\">VOLUNTEER</a>"
         },
         {
           "_inherit": "header1",

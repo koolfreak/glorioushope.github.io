@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 200,
+    "uniqCompNum": 199,
     "versionPublish": "3.10.2",
     "favicon": "file:///Users/Macky/Google",
     "noImageResize": "",
@@ -166,46 +166,48 @@
           },
           "title": "Be a part of the program.",
           "text": "Thank you for your interest in joining us at Glorious Hope!<br><br>There are several ways you can join:",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Join.html#header5-5j\" data-toolbar=\"-mbrBtnMove\">PARTICIPATE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"Join.html#header1-i\" data-toolbar=\"-mbrBtnMove\">VOLUNTEER</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Join.html#header1-f\" data-toolbar=\"-mbrBtnMove\">PARTICIPATE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"Join.html#header1-i\" data-toolbar=\"-mbrBtnMove\">VOLUNTEER</a>"
         },
         {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-lead": {
-              "color": "#ffffff",
-              "font-size": "17px"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header5",
-          "_anchor": "header5-5j",
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header1-f",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bigstock-group-of-diverse-hands-togethe-109645244-583x389-2000x1334-23.jpg",
-            "bgColor": "#efefef",
+            "bgImage": "@PROJECT_PATH@/assets/images/bigstock-group-of-diverse-hands-togethe-109645244-583x389-2000x1334-10.jpg",
+            "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
           "title": "Join as participant",
-          "text": "If you ...<br><br>• are male or female,<br>• are 14 years old or older,<br>• want to be equipped to address personal issues and more,<br><br>you are more than welcome to join us. We are now in more than one location! Click <a href=\"Locations.html\" target=\"_blank\" class=\"text-warning\"><b>here</b></a> to check out the nearest CCF church near you.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc3rtXrEy7_v5brtYce8pYfjKNedQ-eB_XR46DyzfRE1L1sMQ/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>"
+          "text": "<p>If you ...<br><br>• are male or female,<br>• are 14 years old or older,<br>• want to be equipped to address personal issues and more,<br><br>you are more than welcome to join us. We are now in more than one location! Click <a href=\"Locations.html\" target=\"_blank\" class=\"text-warning\">here</a> to check out the nearest CCF church near you.<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc3rtXrEy7_v5brtYce8pYfjKNedQ-eB_XR46DyzfRE1L1sMQ/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>   "
         },
         {
           "_tags": [
