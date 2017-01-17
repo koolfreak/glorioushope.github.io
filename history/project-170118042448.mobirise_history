@@ -206,8 +206,8 @@
             "showButtons": true
           },
           "title": "Join as participant",
-          "text": "<p>If you ...<br><br>• are male or female,<br>• are 14 years old or older,<br>• want to be equipped to address personal issues and more,<br><br>you are more than welcome to join us. We are now in more than one location! Click <a href=\"Locations.html\" target=\"_blank\" class=\"text-warning\">here</a> to check out the nearest CCF church near you.<br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc3rtXrEy7_v5brtYce8pYfjKNedQ-eB_XR46DyzfRE1L1sMQ/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>   "
+          "text": "<p>If you ...<br><br>• are male or female,<br>• are 14 years old or older,<br>• want to be equipped to address personal issues and more,<br><br>you are more than welcome to join us. We are now in more than one location! Click <a href=\"Locations.html\"><b>here</b></a><a href=\"Locations.html\"><b></b></a><a href=\"Locations.html\" class=\"text-warning\"><b></b></a> to check out the nearest CCF church near you.<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc3rtXrEy7_v5brtYce8pYfjKNedQ-eB_XR46DyzfRE1L1sMQ/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a> "
         },
         {
           "_tags": [
@@ -245,7 +245,7 @@
             "showButtons": true
           },
           "title": "Join as GH Life Coach",
-          "text": "If you ...<br><br>• have gone through the Glorious Hope Program,<br>• finished the Glorious Hope run,<br>• obtain a recommendation from your GH Life Coach,<br><br>we invite you to join us in serving God as a GH Life Coach as you share the same comfort God has given you through the program. We encourage you to get involved and reach out to the nearest CCF church near you. Click <a href=\"Locations.html\" target=\"_blank\" class=\"text-warning\">here</a> to see the list of participating CCF affiliate churches.<br>",
+          "text": "If you ...<br><br>• have gone through the Glorious Hope Program,<br>• finished the Glorious Hope run,<br>• obtain a recommendation from your GH Life Coach,<br><br>we invite you to join us in serving God as a GH Life Coach as you share the same comfort God has given you through the program. We encourage you to get involved and reach out to the nearest CCF church near you. Click here to see the list of participating CCF affiliate churches.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe82hewUwe9V9VPNbVXXkKdgA65DV3KwGEsObZv4SGJkPoNOg/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>          "
         },
         {
@@ -285,7 +285,7 @@
           },
           "title": "Join in GH Marketing, Media &amp; Communications Team",
           "text": "If you ...<br><br>• are male or female,<br>• are 15 years old or older,<br>• have been serving God as a GH Life Coach for 1 year,<br><br>we invite all creative minds to join us in serving God as in GH Marketing, Media &amp; Communications Team as you share the talent and skills that God has given you to be a blessing to others.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScmWwyevq6CjmhyG4gy37b9ssyrZvIMeMbkfJ8dITmV9kq5zQ/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Join.html#header5-7\" data-toolbar=\"-mbrBtnMove\">REGISTER</a> "
         },
         {
           "_tags": [
@@ -324,7 +324,7 @@
           },
           "title": "Join in GH Events &amp; Logistics Team",
           "text": "If you ...<br><br>• are male or female,<br>• are 15 years old or older,<br>• have been serving God as a GH Life Coach for 1 year,<br><br>we invite you to join us in serving God in GH Events &amp; Logistics Team. Register now to see the list of groups that you can be a part with.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSekuT-n5FxOfNvmCTGk7v0U29HFBS5gndzalLrCqzUpkHokAA/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Join.html#header5-7\" data-toolbar=\"-mbrBtnMove\">REGISTER</a> "
         },
         {
           "_inherit": "social-buttons2",
