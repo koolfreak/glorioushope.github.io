@@ -492,6 +492,9 @@ h6,
 #header1-f .mbr-section-title {
   color: #ffffff;
 }
+#header1-f .mbr-section-lead P {
+  color: #ffffff;
+}
 #header1-i .mbr-section-lead {
   font-size: 18px;
   color: #ffffff;

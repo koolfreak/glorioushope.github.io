@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.com",
-    "currentPage": "Join.html",
+    "currentPage": "Real People Sub Page.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -180,9 +180,6 @@
             },
             ".mbr-section-title": {
               "color": "#ffffff"
-            },
-            ".mbr-section-lead P": {
-              "color": "#ffffff"
             }
           },
           "_anchor": "header1-f",
@@ -199,14 +196,14 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.5",
-            "overlayColor": "#000000",
+            "overlayColor": "#000",
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
           "title": "Join as participant",
-          "text": "<p>If you ...<br><br>• are male or female,<br>• are 14 years old or older,<br>• want to be equipped to address personal issues and more,<br><br>you are more than welcome to join us. We are now in more than one location! Click <a href=\"Locations.html\"><b>here</b></a><a href=\"Locations.html\"><b></b></a><a href=\"Locations.html\" class=\"text-warning\"><b></b></a> to check out the nearest CCF church near you.<br></p>",
+          "text": "If you ...<br><br>• are male or female,<br>• are 14 years old or older,<br>• want to be equipped to address personal issues and more,<br><br>you are more than welcome to join us. We are now in more than one location! Click <a href=\"Locations.html\" class=\"text-warning\"><b>here</b></a> to check out the nearest CCF church near you.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc3rtXrEy7_v5brtYce8pYfjKNedQ-eB_XR46DyzfRE1L1sMQ/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a> "
         },
         {
@@ -284,7 +281,7 @@
             "showButtons": true
           },
           "title": "Join in GH Marketing, Media &amp; Communications Team",
-          "text": "If you ...<br><br>• are male or female,<br>• are 15 years old or older,<br>• have been serving God as a GH Life Coach for 1 year,<br><br>we invite all creative minds to join us in serving God as in GH Marketing, Media &amp; Communications Team as you share the talent and skills that God has given you to be a blessing to others.<br>",
+          "text": "If you ...<br><br>• are male or female,<br>• are 15 years old or older,<br>• have been serving God as a GH Life Coach for 1 year,<br><br>we invite all creative minds to join us in serving God as in GH Marketing Media &amp; Communications Team as you share the talent and skills that God has given you to be a blessing to others.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Join.html#header5-7\" data-toolbar=\"-mbrBtnMove\">REGISTER</a> "
         },
         {
@@ -1953,7 +1950,7 @@
             "showButtons": false
           },
           "title": "WAYS TO GIVE",
-          "text": "Your benevolent gifts help us reach more people longing to find lasting hope in their circumstances. Thank you for supporting us.<br><br><b style=\"font-style: italic;\">\"Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.\"</b><br><br>• 2 Corinthians 9:7 •<br>",
+          "text": "Where are you investing your life today? Invest in things of eternal value. You have been blessed in order to be a blessing to others.<br><br><b style=\"font-style: italic;\">\"Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.\"</b><br><br>• 2 Corinthians 9:7 •<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Join.html\" data-toolbar=\"-mbrBtnMove\">JOIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Testimonies.html\" data-toolbar=\"-mbrBtnMove\">TESTIMONIES</a>"
         },
         {
@@ -2008,8 +2005,8 @@
           },
           "title1": "Online",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Give conveniently via Paypal<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-paypal mbr-iconfont mbr-iconfont-btn\"></span>GIVE ONLINE</a> ",
+          "caption1": "It is now possible and convenient to<br>give online using this website.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">GIVE ONLINE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -2024,8 +2021,8 @@
           },
           "title2": "Bank Transfer",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "For [BPI, BDO, Metrobank, etc.] account holders",
-          "button2": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-documents mbr-iconfont mbr-iconfont-btn\"></span>BANK DETAILS</a>",
+          "caption2": "You can transfer from your bank of choice directly to us.",
+          "button2": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BANK DETAILS</a>",
           "media3": {
             "iconFont": {
               "active": true,
@@ -2037,10 +2034,10 @@
               "family": "et-line"
             }
           },
-          "title3": "On behalf of a business",
+          "title3": "As a business",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Please write to us.",
-          "button3": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>EMAIL US</a>",
+          "caption3": "If you would like to give on behalf of a business, please get in touch with us.",
+          "button3": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">EMAIL US</a>",
           "media4": {
             "iconFont": {
               "active": true,
@@ -2235,10 +2232,10 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubTitle": true
+            "showSubTitle": false
           },
           "title": "CONTACT US",
-          "subtitle": "<br>Leave us a message, we'll get in touch.<br>",
+          "subtitle": "If you have any inquiries, comments, or suggestions about the Glorious Hope program, we'd love to hear from you.&nbsp;<br>Help us to improve and grow in service of the Lord by sending us a message. We’ll make sure to get back to you as soon as possible.",
           "form": {
             "action": "info.glorioushope@gmail.com",
             "alerts": {
@@ -3906,7 +3903,7 @@
             "showButtons": true
           },
           "title": "REAL PEOPLE",
-          "text": "Real stories of hope, forgiveness and healing unite and inspire us. Share yours today.<br>",
+          "text": "<br>Description here description here&nbsp;Description here description hereDescription here description hereDescription here description hereDescription here description hereDescription here description hereDescription here description hereDescription here description hereDescription here description hereDescription here description hereDescription here description hereDescription here description hereDescription here description here            ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"Testimonies.html#features3-1n\" data-toolbar=\"-mbrBtnMove\">READ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Join.html\" data-toolbar=\"-mbrBtnMove\">JOIN</a> "
         },
         {
@@ -4192,7 +4189,7 @@
             "showButton": false
           },
           "title": "REAL PEOPLE",
-          "text": "<p>Real stories of hope, forgiveness and healing unite and inspire us. Share yours today.</p>",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Description here description here Description here description hereDescription here description hereDescription here description hereDescription here description hereDescription here description hereDescription here description hereDescription here description hereDescription here description hereDescription here description hereDescription here description hereDescription here description hereDescription here description here</span><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
