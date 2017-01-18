@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.com",
-    "currentPage": "Give.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2020,7 +2020,7 @@
               "color": "black"
             }
           },
-          "title2": "Bank transfer",
+          "title2": "Bank Transfer",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "For [BPI, BDO, Metrobank, etc.] account holders",
           "button2": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-documents mbr-iconfont mbr-iconfont-btn\"></span>BANK DETAILS</a>",
@@ -2035,9 +2035,9 @@
               "family": "et-line"
             }
           },
-          "title3": "Give as business",
+          "title3": "On behalf of a business",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Write to us for gift packages",
+          "caption3": "Please write to us.",
           "button3": "<a data-app-btn=\"true\" href=\"Under Construction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>EMAIL US</a>",
           "media4": {
             "iconFont": {
@@ -3904,7 +3904,7 @@
             "showButtons": true
           },
           "title": "REAL PEOPLE",
-          "text": "Real stories of hope, forgiveness and healing unite and inspire us.&nbsp;How has Glorious Hope transformed your life? Share your story.<br>",
+          "text": "Real stories of hope, forgiveness and healing unite and inspire us. Share yours today.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"Testimonies.html#features3-1n\" data-toolbar=\"-mbrBtnMove\">READ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Join.html\" data-toolbar=\"-mbrBtnMove\">JOIN</a> "
         },
         {
@@ -4023,7 +4023,7 @@
           },
           "title5": "Other stories",
           "subtitle5": "",
-          "caption5": "Check out more stories of participants who completed the Glorious Hope program.",
+          "caption5": "<span style=\"line-height: 1.5;\"><br></span><br><span style=\"line-height: 1.5;\">Description here description here</span><span style=\"line-height: 1.5;\"><br></span><br>",
           "button5": "<a data-app-btn=\"true\" href=\"Real People Sub Page.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
           "media6": {
             "image": {
@@ -4190,7 +4190,7 @@
             "showButton": false
           },
           "title": "REAL PEOPLE",
-          "text": "<p>Real stories of hope, forgiveness and healing unite and inspire us. How has Glorious Hope transformed your life? Share your story.</p>",
+          "text": "<p>Real stories of hope, forgiveness and healing unite and inspire us. Share yours today.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
