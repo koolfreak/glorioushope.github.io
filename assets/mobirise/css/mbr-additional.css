@@ -1686,6 +1686,115 @@ h6,
 
 
 
+#menu-5r .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-5r .navbar-caption {
+  color: #ffffff;
+}
+#menu-5r .navbar-toggler {
+  color: #ffffff;
+}
+#menu-5r .close-icon::before,
+#menu-5r .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-5r .link,
+#menu-5r .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#menu-5r .link {
+  font-size: 0.75rem;
+}
+#menu-5r .dropdown-item,
+#menu-5r .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-5r .link:hover,
+#menu-5r .dropdown-item:hover,
+#menu-5r .link:focus,
+#menu-5r .dropdown-item:focus {
+  color: #41a85f;
+}
+#menu-5r .link[aria-expanded="true"],
+#menu-5r .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-5r .nav-dropdown-sm .link:focus,
+#menu-5r .nav-dropdown-sm .link:hover,
+#menu-5r .nav-dropdown-sm .dropdown-item:focus,
+#menu-5r .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-5r .navbar,
+#menu-5r .nav-dropdown-sm,
+#menu-5r .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-5r .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-5r .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-5r .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-5r .bg-color.transparent.opened .link:hover,
+#menu-5r .bg-color.transparent.opened .link:focus {
+  color: #41a85f;
+}
+#menu-5r .link[aria-expanded="true"],
+#menu-5r .dropdown-item[aria-expanded="true"] {
+  color: #41a85f!important;
+}
+#header1-5s .mbr-section-lead {
+  font-size: 18px;
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+}
+#header1-5s .mbr-section-title {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#features1-5t .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #efefef;
+}
+#features1-5t .mbr-cards-col:nth-child(odd) .card-title {
+  color: #000000;
+}
+#features1-5t .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #979797;
+}
+#features1-5t .mbr-cards-col:nth-child(odd) .card-text {
+  color: #000000;
+  text-align: left;
+}
+#features1-5t .mbr-cards-col:nth-child(even) .card-text {
+  text-align: left;
+}
+#social-buttons4-5u .mbr-section-title,
+#social-buttons4-5u .btn-social {
+  color: #fff;
+}
+#social-buttons4-5u .mbr-section-title {
+  font-size: 20px;
+  color: #ffffff;
+}
+#footer1-5v P {
+  color: #000000;
+  text-align: right;
+}
+#contacts1-5w P {
+  color: #000000;
+}
+#contacts1-5w STRONG {
+  color: #000000;
+}
+
+
+
 #menu-5k .hide-buttons .nav-btn {
   display: none !important;
 }
