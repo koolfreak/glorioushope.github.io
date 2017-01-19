@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.com",
-    "currentPage": "Real People.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1999,10 +1999,9 @@
               "name": "global",
               "family": "et-line",
               "active": true,
-              "link": "Fund Transfer.html",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "newWindow": false
+              "color": "black"
             }
           },
           "title1": "Online",
@@ -2016,10 +2015,9 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "Bank Deposit.html",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "newWindow": false
+              "color": "black"
             }
           },
           "title2": "Bank deposit",
@@ -2028,15 +2026,13 @@
           "button2": "<a data-app-btn=\"true\" href=\"Bank Deposit.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-documents mbr-iconfont mbr-iconfont-btn\"></span>BANK DETAILS</a>",
           "media3": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "briefcase",
-              "family": "et-line",
               "active": true,
-              "link": "mailto:info.glorioushope@gmail.com",
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
               "size": 0,
               "color": "black",
-              "newWindow": true
+              "family": "et-line"
             }
           },
           "title3": "Give as business",
