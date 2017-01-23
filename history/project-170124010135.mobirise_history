@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.com",
-    "currentPage": "index.html",
+    "currentPage": "Real People.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -39,7 +39,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"RealPeople.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Real People.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
         },
         {
           "_tags": [
@@ -439,7 +439,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -939,7 +939,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"RealPeople.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Real People.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
         }
       ]
     },
@@ -950,7 +950,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1043,7 +1043,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"RealPeople.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Real People.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
         },
         {
           "_tags": [
@@ -1444,7 +1444,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1537,7 +1537,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"RealPeople.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Real People.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
         },
         {
           "_tags": [
@@ -1819,7 +1819,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -1912,7 +1912,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"RealPeople.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Real People.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
         },
         {
           "_tags": [
@@ -2008,7 +2008,7 @@
           "title1": "Online",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Give conveniently via online banking<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"FundTransfer.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-desktop mbr-iconfont mbr-iconfont-btn\"></span>GIVE ONLINE</a> ",
+          "button1": "<a data-app-btn=\"true\" href=\"Fund Transfer.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-desktop mbr-iconfont mbr-iconfont-btn\"></span>GIVE ONLINE</a> ",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -2025,7 +2025,7 @@
           "title2": "Bank deposit",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "For BDO and Security Bank account holders",
-          "button2": "<a data-app-btn=\"true\" href=\"BankDeposit.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-documents mbr-iconfont mbr-iconfont-btn\"></span>BANK DETAILS</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Bank Deposit.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-documents mbr-iconfont mbr-iconfont-btn\"></span>BANK DETAILS</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -2204,7 +2204,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2478,7 +2478,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -2927,7 +2927,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"RealPeople.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Real People.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
         },
         {
           "_tags": [
@@ -3770,264 +3770,14 @@
         }
       ]
     },
-    "index.html": {
-      "settings": {
-        "main": true,
-        "title": "Glorious Hope",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 1
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#41a85f!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-0",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "0.75",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ghlogo-371x128-77.png",
-              "height": 128,
-              "alt": "Glorious Hope",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"RealPeople.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "18px",
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          },
-          "_anchor": "header1-2",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/backgroundv2-2000x1125-51.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "GLORIOUS HOPE",
-          "text": "<br>Glorious Hope is a recovery program that helps people deal with their personal issues by gradually uncovering deeply buried childhood hurts that greatly affect how they view themselves, others, their circumstances, and consequently, how they behave.<br><br>This program provides the necessary tools in understanding the relevance of unaddressed hurts in the past and the importance of addressing them in order to let go and move on to fostering spiritual maturity.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Join.html\" data-toolbar=\"-mbrBtnMove\">JOIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"RealPeople.html\" data-toolbar=\"-mbrBtnMove\">REAL PEOPLE</a>"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "20px",
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-s",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#414141",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"http://facbook.com/ghprogram\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCGn2OWlpTC9C6mO_QYHDVNw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/glorious.hope/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://twitter.com/GloriousHopeCCF\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>     "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "right"
-            }
-          },
-          "_anchor": "footer1-r",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "©  2016 Glorious Hope"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "STRONG": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "contacts1-15",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/ghlogo-128x44-61.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "facebook",
-              "family": "et-line",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>\n3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
-          "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596</p><p>Smart: +63 (908) 607 9389</p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"https://www.facebook.com/ghalabang\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.facebook.com/ghkatipunan\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"https://www.facebook.com/Glorious-Hope-Malolos-349867195379527/\" target=\"_blank\">CCF Malolos</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br></a></p>"
-        }
-      ]
-    },
-    "RealPeople.html": {
+    "Real People.html": {
       "settings": {
         "title": "Glorious Hope - Real People",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -4120,7 +3870,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"RealPeople.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Real People.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
         },
         {
           "_tags": [
@@ -4270,7 +4020,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "RealPeopleList.html",
+              "link": "Real People Sub Page.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -4279,7 +4029,7 @@
           "title5": "Other stories",
           "subtitle5": "",
           "caption5": "Check out more stories of participants who completed the Glorious Hope program.",
-          "button5": "<a data-app-btn=\"true\" href=\"RealPeopleList.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"Real People Sub Page.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -4401,14 +4151,14 @@
         }
       ]
     },
-    "RealPeopleList.html": {
+    "Real People Sub Page.html": {
       "settings": {
         "title": "Glorious Hope - Real People",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -4538,7 +4288,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"RealPeople.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Real People.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
         },
         {
           "_tags": [
@@ -5323,14 +5073,513 @@
         }
       ]
     },
-    "BankDeposit.html": {
+    "Under Construction.html": {
+      "settings": {
+        "title": "Glorious Hope - Under Construction",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-4y",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.75",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ghlogo-371x128-77.png",
+              "height": 128,
+              "alt": "Glorious Hope",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Real People.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_anchor": "header1-4z",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/backgroundv2-2000x1125-51.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "THIS PAGE IS<br>UNDER CONSTRUCTION",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Join.html\" data-toolbar=\"-mbrBtnMove\">JOIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Real People.html\" data-toolbar=\"-mbrBtnMove\">REAL PEOPLE</a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-53",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#414141",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"http://facbook.com/ghprogram\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCGn2OWlpTC9C6mO_QYHDVNw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/glorious.hope/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://twitter.com/GloriousHopeCCF\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>     "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-51",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "©  2016 Glorious Hope"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "STRONG": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-52",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ghlogo-128x44-61.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "et-line",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596</p><p>Smart: +63 (908) 607 9389</p>",
+          "text3": "<p><strong>Locations</strong><br><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"https://www.facebook.com/ghalabang\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.facebook.com/ghkatipunan\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"https://www.facebook.com/Glorious-Hope-Malolos-349867195379527/\" target=\"_blank\">CCF Malolos</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br></a></p>"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Glorious Hope",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#41a85f!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.75",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ghlogo-371x128-77.png",
+              "height": 128,
+              "alt": "Glorious Hope",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Real People.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_anchor": "header1-2",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/backgroundv2-2000x1125-51.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "GLORIOUS HOPE",
+          "text": "<br>Glorious Hope is a recovery program that helps people deal with their personal issues by gradually uncovering deeply buried childhood hurts that greatly affect how they view themselves, others, their circumstances, and consequently, how they behave.<br><br>This program provides the necessary tools in understanding the relevance of unaddressed hurts in the past and the importance of addressing them in order to let go and move on to fostering spiritual maturity.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Join.html\" data-toolbar=\"-mbrBtnMove\">JOIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Real People.html\" data-toolbar=\"-mbrBtnMove\">REAL PEOPLE</a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-s",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#414141",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"http://facbook.com/ghprogram\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCGn2OWlpTC9C6mO_QYHDVNw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/glorious.hope/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://twitter.com/GloriousHopeCCF\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>     "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-r",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "©  2016 Glorious Hope"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "STRONG": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-15",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ghlogo-128x44-61.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "et-line",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596</p><p>Smart: +63 (908) 607 9389</p>",
+          "text3": "<p><strong>Locations</strong><br><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"https://www.facebook.com/ghalabang\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.facebook.com/ghkatipunan\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"https://www.facebook.com/Glorious-Hope-Malolos-349867195379527/\" target=\"_blank\">CCF Malolos</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br></a></p>"
+        }
+      ]
+    },
+    "Bank Deposit.html": {
       "settings": {
         "title": "Glorious Hope - Bank Deposit",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -5419,7 +5668,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"RealPeople.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Real People.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
         },
         {
           "_tags": [
@@ -5525,7 +5774,7 @@
           },
           "title1": "Banco De Oro",
           "subtitle1": "Ortigas Center",
-          "caption1": "<b>Address</b><br>G/F The Podium, ADB Ave., Brgy. Wack-Wack, Mandaluyong City<br><br><b>Branch</b><br>BDO Corporate Center Ortigas<br><br><b>Account Name</b><br>Christ’s Commission Foundation Ministries, Inc.<br><br><b>Peso Savings Acct.</b><br>000-660-974-118<br><br><b>Dollar Savings Acct.</b><br>100-660-981-416<br><br><b>Swift Code</b><br>BNORPHMM<br><br><b>*For bank deposit, please send in a&nbsp;scanned clear copy of validated deposit slip and indicate the your full name and the ministry to whom you are giving your donation and furnish copy to <a href=\"mailto:susan.nunez@ccf.org.ph\" target=\"_blank\" class=\"text-primary\">susan.nunez@ccf.org.ph</a> cc:&nbsp;<a href=\"mailto:info.glorioushope@gmail.com\" target=\"_blank\" class=\"text-primary\">info.glorioushope@gmail.com</a>, <a href=\"mailto:mel.sollano@ccf.org.ph\" target=\"_blank\" class=\"text-primary\">mel.sollano@ccf.org.ph</a></b><br><br>Sample:<br>Giver/Donor: <b>Juan Dela Cruz</b><br>Ministry: <b>Glorious Hope</b><br><b><br></b><b>*For fund transfer, please send in the bank transaction details to <a href=\"mailto:info.glorioushope@gmail.com\" target=\"_blank\" class=\"text-primary\">info.glorioushope@gmail.com</a></b>",
+          "caption1": "<b>Address</b><br>G/F The Podium, ADB Ave., Brgy. Wack-Wack, Mandaluyong City<br><br><b>Branch</b><br>BDO Corporate Center Ortigas<br><br><b>Account Name</b><br>Christ’s Commission Foundation Ministries, Inc.<br><br><b>Peso Savings Acct.</b><br>000-660-974-118<br><br><b>Dollar Savings Acct.</b><br>100-660-981-416<br><br><b>Swift Code</b><br>BNORPHMM<br><br><b>*Please send in a&nbsp;scanned clear copy of validated deposit slip and indicate the your full name and the ministry to whom you are giving your donation and furnish copy to <a href=\"mailto:susan.nunez@ccf.org.ph\" target=\"_blank\" class=\"text-primary\">susan.nunez@ccf.org.ph</a> cc:&nbsp;<a href=\"mailto:info.glorioushope@gmail.com\" target=\"_blank\" class=\"text-primary\">info.glorioushope@gmail.com</a>, <a href=\"mailto:mel.sollano@ccf.org.ph\" target=\"_blank\" class=\"text-primary\">mel.sollano@ccf.org.ph</a></b><br><br>Sample:<br>Giver/Donor: <b>Juan Dela Cruz</b><br>Ministry: <b>Glorious Hope</b><br><b><br></b><b>*For fund transfer, please send in the bank transaction details to <a href=\"mailto:info.glorioushope@gmail.com\" target=\"_blank\" class=\"text-primary\">info.glorioushope@gmail.com</a></b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BANK TRANSFER FORM</a>",
           "media2": {
             "image": {
@@ -5541,7 +5790,7 @@
           },
           "title2": "Security Bank",
           "subtitle2": "Silver City",
-          "caption2": "<b>Address</b><br>G/F, Silver City, Tiendesitas Complex Frontera Verde, Brgy. Ugong, Pasig City<br><br><b>Branch</b><br>Silver City<br><br><b>Account Name</b><br>Christ’s Commission Foundation Ministries, Inc.<br><br><b>Peso Savings Acct.</b><br>0477-032581-003<br><br><b>Swift Code</b><br>SETCPHMM<br><br><b>*For bank deposit, please send in a scanned clear copy of validated deposit slip and indicate the your full name and the ministry to whom you are giving your donation and furnish copy to <a href=\"mailto:susan.nunez@ccf.org.ph\" target=\"_blank\" class=\"text-primary\">susan.nunez@ccf.org.ph</a> cc:&nbsp;<a href=\"mailto:info.glorioushope@gmail.com\" target=\"_blank\" class=\"text-primary\">info.glorioushope@gmail.com</a>, <a href=\"mailto:mel.sollano@ccf.org.ph\" target=\"_blank\" class=\"text-primary\">mel.sollano@ccf.org.ph</a></b><br><br>Sample:<br>Giver/Donor: <b>Juan Dela Cruz</b><br>Ministry: <b>Glorious Hope</b><br><br><b>*For fund transfer, please send in the bank transaction details to <a href=\"mailto:info.glorioushope@gmail.com\" target=\"_blank\" class=\"text-primary\">info.glorioushope@gmail.com</a><br></b><br>",
+          "caption2": "<b>Address</b><br>G/F, Silver City, Tiendesitas Complex Frontera Verde, Brgy. Ugong, Pasig City<br><br><b>Branch</b><br>Silver City<br><br><b>Account Name</b><br>Christ’s Commission Foundation Ministries, Inc.<br><br><b>Peso Savings Acct.</b><br>0477-032581-003<br><br><b>Swift Code</b><br>SETCPHMM<br><br><b>*Please send in a scanned clear copy of validated deposit slip and indicate the your full name and the ministry to whom you are giving your donation and furnish copy to <a href=\"mailto:susan.nunez@ccf.org.ph\" target=\"_blank\" class=\"text-primary\">susan.nunez@ccf.org.ph</a> cc:&nbsp;<a href=\"mailto:info.glorioushope@gmail.com\" target=\"_blank\" class=\"text-primary\">info.glorioushope@gmail.com</a>, <a href=\"mailto:mel.sollano@ccf.org.ph\" target=\"_blank\" class=\"text-primary\">mel.sollano@ccf.org.ph</a></b><br><br>Sample:<br>Giver/Donor: <b>Juan Dela Cruz</b><br>Ministry: <b>Glorious Hope</b><br><br><b>*For fund transfer, please send in the bank transaction details to <a href=\"mailto:info.glorioushope@gmail.com\" target=\"_blank\" class=\"text-primary\">info.glorioushope@gmail.com</a><br></b><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BANK TRANSFER FORM</a>",
           "media3": {
             "image": {
@@ -5700,7 +5949,7 @@
         }
       ]
     },
-    "FundTransfer.html": {
+    "Fund Transfer.html": {
       "settings": {
         "title": "Glorious Hope - Fund Transfer",
         "meta_descr": "",
@@ -5796,7 +6045,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"RealPeople.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Real People.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
         },
         {
           "_tags": [
@@ -5902,7 +6151,7 @@
           },
           "title1": "Banco De Oro",
           "subtitle1": "Ortigas Center",
-          "caption1": "<b>Address</b><br>G/F The Podium, ADB Ave., Brgy. Wack-Wack, Mandaluyong City<br><br><b>Branch</b><br>BDO Corporate Center Ortigas<br><br><b>Account Name</b><br>Christ’s Commission Foundation Ministries, Inc.<br><br><b>Peso Savings Acct.</b><br>000-660-974-118<br><br><b>Dollar Savings Acct.</b><br>100-660-981-416<br><br><b>Swift Code</b><br>BNORPHMM<br><br><b>*For fund transfer, please send in the bank transaction details to <a href=\"mailto:info.glorioushope@gmail.com\" target=\"_blank\" class=\"text-primary\">info.glorioushope@gmail.com</a></b><br><br><b>*For bank deposit, please send in a&nbsp;scanned clear copy of validated deposit slip and indicate the your full name and the ministry to whom you are giving your donation and furnish copy to <a href=\"mailto:susan.nunez@ccf.org.ph\" target=\"_blank\" class=\"text-primary\">susan.nunez@ccf.org.ph</a> cc:&nbsp;<a href=\"mailto:info.glorioushope@gmail.com\" target=\"_blank\" class=\"text-primary\">info.glorioushope@gmail.com</a>, <a href=\"mailto:mel.sollano@ccf.org.ph\" target=\"_blank\" class=\"text-primary\">mel.sollano@ccf.org.ph</a></b><br><br>Sample:<br>Giver/Donor: <b>Juan Dela Cruz</b><br>Ministry: <b>Glorious Hope</b><br><b></b>",
+          "caption1": "<b>Address</b><br>G/F The Podium, ADB Ave., Brgy. Wack-Wack, Mandaluyong City<br><br><b>Branch</b><br>BDO Corporate Center Ortigas<br><br><b>Account Name</b><br>Christ’s Commission Foundation Ministries, Inc.<br><br><b>Peso Savings Acct.</b><br>000-660-974-118<br><br><b>Dollar Savings Acct.</b><br>100-660-981-416<br><br><b>Swift Code</b><br>BNORPHMM<br><br><b>*Please send in a&nbsp;scanned clear copy of validated deposit slip and indicate the your full name and the ministry to whom you are giving your donation and furnish copy to <a href=\"mailto:susan.nunez@ccf.org.ph\" target=\"_blank\" class=\"text-primary\">susan.nunez@ccf.org.ph</a> cc:&nbsp;<a href=\"mailto:info.glorioushope@gmail.com\" target=\"_blank\" class=\"text-primary\">info.glorioushope@gmail.com</a>, <a href=\"mailto:mel.sollano@ccf.org.ph\" target=\"_blank\" class=\"text-primary\">mel.sollano@ccf.org.ph</a></b><br><br>Sample:<br>Giver/Donor: <b>Juan Dela Cruz</b><br>Ministry: <b>Glorious Hope</b><br><b><br></b><b>*For fund transfer, please send in the bank transaction details to <a href=\"mailto:info.glorioushope@gmail.com\" target=\"_blank\" class=\"text-primary\">info.glorioushope@gmail.com</a></b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BANK TRANSFER FORM</a>",
           "media2": {
             "image": {
@@ -5918,7 +6167,7 @@
           },
           "title2": "Security Bank",
           "subtitle2": "Silver City",
-          "caption2": "<b>Address</b><br>G/F, Silver City, Tiendesitas Complex Frontera Verde, Brgy. Ugong, Pasig City<br><br><b>Branch</b><br>Silver City<br><br><b>Account Name</b><br>Christ’s Commission Foundation Ministries, Inc.<br><br><b>Peso Savings Acct.</b><br>0477-032581-003<br><br><b>Swift Code</b><br>SETCPHMM<br><br><b>*For fund transfer, please send in the bank transaction details to <a href=\"mailto:info.glorioushope@gmail.com\" target=\"_blank\" class=\"text-primary\">info.glorioushope@gmail.com</a></b><br><br><b>*For bank deposit, please send in a scanned clear copy of validated deposit slip and indicate the your full name and the ministry to whom you are giving your donation and furnish copy to <a href=\"mailto:susan.nunez@ccf.org.ph\" target=\"_blank\" class=\"text-primary\">susan.nunez@ccf.org.ph</a> cc:&nbsp;<a href=\"mailto:info.glorioushope@gmail.com\" target=\"_blank\" class=\"text-primary\">info.glorioushope@gmail.com</a>, <a href=\"mailto:mel.sollano@ccf.org.ph\" target=\"_blank\" class=\"text-primary\">mel.sollano@ccf.org.ph</a></b><br><br>Sample:<br>Giver/Donor: <b>Juan Dela Cruz</b><br>Ministry: <b>Glorious Hope</b><br>",
+          "caption2": "<b>Address</b><br>G/F, Silver City, Tiendesitas Complex Frontera Verde, Brgy. Ugong, Pasig City<br><br><b>Branch</b><br>Silver City<br><br><b>Account Name</b><br>Christ’s Commission Foundation Ministries, Inc.<br><br><b>Peso Savings Acct.</b><br>0477-032581-003<br><br><b>Swift Code</b><br>SETCPHMM<br><br><b>*Please send in a scanned clear copy of validated deposit slip and indicate the your full name and the ministry to whom you are giving your donation and furnish copy to <a href=\"mailto:susan.nunez@ccf.org.ph\" target=\"_blank\" class=\"text-primary\">susan.nunez@ccf.org.ph</a> cc:&nbsp;<a href=\"mailto:info.glorioushope@gmail.com\" target=\"_blank\" class=\"text-primary\">info.glorioushope@gmail.com</a>, <a href=\"mailto:mel.sollano@ccf.org.ph\" target=\"_blank\" class=\"text-primary\">mel.sollano@ccf.org.ph</a></b><br><br>Sample:<br>Giver/Donor: <b>Juan Dela Cruz</b><br>Ministry: <b>Glorious Hope</b><br><br><b>*For fund transfer, please send in the bank transaction details to <a href=\"mailto:info.glorioushope@gmail.com\" target=\"_blank\" class=\"text-primary\">info.glorioushope@gmail.com</a><br></b><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BANK TRANSFER FORM</a>",
           "media3": {
             "image": {
@@ -6040,255 +6289,6 @@
             }
           },
           "_anchor": "contacts1-5o",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/ghlogo-128x44-61.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "facebook",
-              "family": "et-line",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>\n3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
-          "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;info.glorioushope@gmail.com<br>\nOffice: +63 (2) 866 9958<br>\nGlobe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596</p><p>Smart: +63 (908) 607 9389</p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"https://www.facebook.com/ghalabang\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://www.facebook.com/ghkatipunan\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"https://www.facebook.com/Glorious-Hope-Malolos-349867195379527/\" target=\"_blank\">CCF Malolos</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br></a></p>"
-        }
-      ]
-    },
-    "UnderConstruction.html": {
-      "settings": {
-        "title": "Glorious Hope - Under Construction",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 13
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#41a85f!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-4y",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "0.75",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ghlogo-371x128-77.png",
-              "height": 128,
-              "alt": "Glorious Hope",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Join.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-i\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-h\">Marketing Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Join.html#header1-j\">Events &amp; Logistics</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"RealPeople.html\">REAL PEOPLE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Give.html\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">FREE eBOOK</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "18px",
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          },
-          "_anchor": "header1-4z",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/backgroundv2-2000x1125-51.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
-          },
-          "title": "THIS PAGE IS<br>UNDER CONSTRUCTION",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Join.html\" data-toolbar=\"-mbrBtnMove\">JOIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Real People.html\" data-toolbar=\"-mbrBtnMove\">REAL PEOPLE</a>"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "20px",
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-53",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#414141",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"http://facbook.com/ghprogram\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCGn2OWlpTC9C6mO_QYHDVNw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/glorious.hope/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://twitter.com/GloriousHopeCCF\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>     "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "right"
-            }
-          },
-          "_anchor": "footer1-51",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "©  2016 Glorious Hope"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "STRONG": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "contacts1-52",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
