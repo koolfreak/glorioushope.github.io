@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.com",
-    "currentPage": "index.html",
+    "currentPage": "AboutTheProgram.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,12 +21,15 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 313,
+    "uniqCompNum": 312,
     "versionPublish": "3.11.1",
-    "favicon": "@PROJECT_PATH@/assets/images/gh-person-orange-128x123-6.png",
+    "favicon": "@PROJECT_PATH@/assets/images/gh-person-orange-128x123_5.png",
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-77861731-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "file:///Users/mackydayoja/Google%20Drive/CCF/Glorious%20Hope/Marketing%20and%20Media%20Communications/Website/glorioushope.github.io"
   },
   "pages": {
     "Join.html": {
@@ -4045,7 +4048,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-577.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-600x403-57.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4061,7 +4064,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-998.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/male-portrait-600x403-99.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4077,7 +4080,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-369.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-2-600x403-36.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4093,7 +4096,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-7910.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/male-portrait-2-600x403-79.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4109,7 +4112,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-2411.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-600x403-24.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4125,7 +4128,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-4612.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-2-600x403-46.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4206,7 +4209,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-57-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-600x403-57_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4222,7 +4225,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-99-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/male-portrait-600x403-99_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4238,7 +4241,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-36-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-2-600x403-36_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4254,7 +4257,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-79-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/male-portrait-2-600x403-79_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4270,7 +4273,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-24-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-600x403-24_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4286,7 +4289,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-46-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-2-600x403-46_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4341,7 +4344,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-57-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-600x403-57_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4357,7 +4360,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-99-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/male-portrait-600x403-99_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4373,7 +4376,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-36-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-2-600x403-36_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4389,7 +4392,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-79-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/male-portrait-2-600x403-79_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4405,7 +4408,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-24-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-600x403-24_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4421,7 +4424,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-46-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-2-600x403-46_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4476,7 +4479,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-57-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-600x403-57_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4492,7 +4495,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-99-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/male-portrait-600x403-99_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4508,7 +4511,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-36-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-2-600x403-36_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4524,7 +4527,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-79-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/male-portrait-2-600x403-79_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4540,7 +4543,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-24-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-600x403-24_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4556,7 +4559,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-46-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-2-600x403-46_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4611,7 +4614,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-57-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-600x403-57_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4627,7 +4630,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-99-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/male-portrait-600x403-99_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4643,7 +4646,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-36-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-2-600x403-36_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4659,7 +4662,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-79-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/male-portrait-2-600x403-79_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4675,7 +4678,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-24-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-600x403-24_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4691,7 +4694,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-46-1.jpg",
+              "src": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/female-portrait-2-600x403-46_1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6514,7 +6517,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>3 Glorious Hope workbooks</b> — orange, green, and yellow.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Each workbook has a specific theme and purpose as indicated by their color.</span><br></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>3 Glorious Hope workbooks</b> — orange, green, and yellow. Each workbook has a specific theme and purpose as indicated by their color.</span><br></p>"
         },
         {
           "_tags": [
@@ -6566,7 +6569,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Attendance, snacks, and drinks are FREE</b>! Participants are asked to pay ₱100 for each workbook. Donations are also welcome. Click <b><a href=\"Give.html\">HERE</a></b> to see instructions on how you can donate to this program.</span><br></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Attendance, snacks, and drinks are FREE</b>! Participants are asked to pay ₱100 for each workbook. Donations are also welcome.</span><br></p>"
         },
         {
           "_tags": [
@@ -6592,9 +6595,9 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text1": "<p><a href=\"Issues.html#content1-6s\" target=\"_blank\">Alcoholism</a></p><p><a href=\"Issues.html#content1-6u\" target=\"_blank\">Anger</a></p><p><a href=\"Issues.html#content1-6w\" target=\"_blank\">Codependency</a></p><p><a href=\"Issues.html#content1-6y\" target=\"_blank\">Compulsive Debting</a></p><p><a href=\"Issues.html#content1-70\" target=\"_blank\">Depression</a></p><p><a href=\"Issues.html#content1-72\" target=\"_blank\">Drug Addiction</a></p>",
+          "text1": "<p><a href=\"Issues.html#content1-6s\" target=\"_blank\">Alcoholism</a></p><p><a href=\"Issues.html#content1-6u\" target=\"_blank\">Anger</a></p><p><a href=\"Issues.html#content1-6w\" target=\"_blank\">Codependency</a></p><p><a href=\"Issues.html#content1-6y\" target=\"_blank\">Compulsive Debting</a></p><p><a href=\"Issues.html#content1-70\" target=\"_blank\">Depression</a></p><p><a href=\"Issues.html#content1-72\" target=\"_blank\">Drug Addiction</a></p><p><br></p>",
           "text2": "<p><a href=\"Issues.html#content1-74\" target=\"_blank\">Eating Disorder</a></p><p><a href=\"Issues.html#content1-76\" target=\"_blank\">Effects of Abuse</a></p><p><a href=\"Issues.html#content1-7d\" target=\"_blank\">Family Dysfunction</a></p><p><a href=\"Issues.html#content1-7f\" target=\"_blank\">Food Addiction</a></p><p><a href=\"Issues.html#content1-7h\" target=\"_blank\">Gambling</a></p><p><a href=\"Issues.html#content1-7j\" target=\"_blank\">Grief</a></p>",
-          "text3": "<p><a href=\"Issues.html#content1-7l\" target=\"_blank\">Homosexuality</a></p><p><a href=\"Issues.html#content1-7n\" target=\"_blank\">Internet Addiction</a></p><p><a href=\"Issues.html#content1-7p\" target=\"_blank\">Love Addiction</a></p><p><a href=\"Issues.html#content1-7r\" target=\"_blank\">Sexual Addiction</a></p><p><a href=\"Issues.html#content1-7t\" target=\"_blank\">Unresolved Guilt &amp; Shame</a></p><p><a href=\"Issues.html#content1-7v\" target=\"_blank\">Workaholism</a></p>"
+          "text3": "<p><a href=\"Issues.html#content1-7l\" target=\"_blank\">Homosexuality</a></p><p><a href=\"Issues.html#content1-7n\" target=\"_blank\">Internet Addiction</a></p><p><a href=\"Issues.html#content1-7p\" target=\"_blank\">Love Addiction</a></p><p><a href=\"Issues.html#content1-7r\" target=\"_blank\">Sexual Addiction</a></p><p><a href=\"Issues.html#content1-7t\" target=\"_blank\">Unresolved Guilt and Shame</a></p><p><a href=\"Issues.html#content1-7v\" target=\"_blank\">Workaholism</a></p>"
         },
         {
           "_tags": [
@@ -6612,7 +6615,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>(Click <a href=\"Issues.html\" target=\"_blank\"><b>HERE</b></a><a href=\"Issues.html\" target=\"_blank\"></a> to see the details of the topics mentioned above)</p>"
+          "text": "<p>(Click <a href=\"Issues.html\" target=\"_blank\">HERE</a><a href=\"Issues.html\" target=\"_blank\"></a> to see the details of the topics mentioned above)</p>"
         },
         {
           "_inherit": "social-buttons2",
@@ -7805,7 +7808,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/backgroundv2-2000x1125-3613.jpg",
+            "bgImage": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/backgroundv2-2000x1125-36.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
