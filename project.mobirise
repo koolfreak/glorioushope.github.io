@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.com",
-    "currentPage": "index.html",
+    "currentPage": "Locations.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,10 +23,13 @@
     "versionFirst": "3.9.2",
     "uniqCompNum": 313,
     "versionPublish": "3.11.1",
-    "favicon": "@PROJECT_PATH@/assets/images/gh-person-orange-128x123-6.png",
+    "favicon": "@PROJECT_PATH@/assets/images/gh-person-orange-128x123_9.png",
     "noImageResize": "",
-    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-77861731-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
-    "cookiesAlert": ""
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-91689130-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "cookiesAlert": "",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "file:///Users/Macky/Google%20Drive/CCF/Glorious%20Hope/Marketing%20and%20Media%20Communications/Website/glorioushope.github.io"
   },
   "pages": {
     "Join.html": {
@@ -473,7 +476,7 @@
             }
           },
           "title": "CCF CENTER",
-          "text": "Frontera Verde, Ortigas Avenue corner C5 Road, Pasig City Pasig, Metro Manila<br><br>Office: +63 (2) 866 99 85<br>Globe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>+63 (908) 607 9389&nbsp;<br>",
+          "text": "Frontera Verde, Ortigas Avenue corner C5 Road, Pasig City Pasig, Metro Manila<br><br>Office: +63 (2) 866 99 85<br>Globe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>&nbsp;+63 (908) 607 9389<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.google.com/maps/dir//CCF+Center,+Pasig,+Metro+Manila,+Philippines/@14.5885355,121.0774332,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3397c80763256723:0x7a3cde40fe3b6497!2m2!1d121.078895!2d14.589117\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET DIRECTIONS</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.facebook.com/ghccfcenter\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>PAGE</a>"
         },
         {
@@ -534,7 +537,7 @@
             }
           },
           "title": "CCF ALABANG",
-          "text": "Prime St., Madrigal Business Park, Alabang, Muntinlupa City, Metro Manila<br><br>Office: +63 (2) 866 99 85<br>Globe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>+63 (920) 959 0039<br>",
+          "text": "Prime St., Madrigal Business Park, Alabang, Muntinlupa City, Metro Manila<br><br>Office: +63 (2) 866 99 85<br>Globe: +63 (917) 521 1527<br>Globe: +63 (917) 830 1744<br>Smart: +63 (939) 924 4596<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.google.com/maps/dir//Christ's+Commission+Fellowship+Alabang,+3F+CCF+Bldg.,+Madrigal+Business+Park+Alabang,,+Prime+Street,+Muntinlupa,+1780,+Philippines/@14.4281996,121.0268107,19z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3397d1d1fceab1dd:0x40bb0e1f0d59b5e3!2m2!1d121.027152!2d14.428358\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET DIRECTIONS</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.facebook.com/ghalabang\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>PAGE</a>"
         },
         {
@@ -595,7 +598,7 @@
             }
           },
           "title": "CCF KATIPUNAN",
-          "text": "FBR Arcade, Katipunan Ave., Loyola Heights, Quezon City, Metro Manila<br><br>Office: +63 (2) 866 99 85<br>Globe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>+63 (908) 607 9389<br>",
+          "text": "FBR Arcade, Katipunan Ave., Loyola Heights, Quezon City, Metro Manila<br><br>Office: +63 (2) 866 99 85<br>Globe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>Sun: +63 (942) 307 6600<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.google.com/maps/dir//Christ's+Commission+Fellowship,+Katipunan,+Quezon+City,+NCR,+Philippines/@14.6393314,121.073136,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3397b77f4f170157:0x54d9e28eb77833e2!2m2!1d121.074231!2d14.639251\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET DIRECTIONS</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.facebook.com/ghkatipunan/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>PAGE</a>"
         },
         {
@@ -656,7 +659,7 @@
             }
           },
           "title": "CCF MALOLOS",
-          "text": "Medicor Bldg., McArthur Hi-way, Sumapang Matanda, Malolos, Bulacan<br><br>Office: +63 (2) 866 99 85<br>Globe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>+63 (908) 607 9389<br>",
+          "text": "Medicor Bldg., McArthur Hi-way, Sumapang Matanda, Malolos, Bulacan<br><br>Office: +63 (2) 866 99 85<br>Globe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>Sun: +63 (942) 399 4158<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.google.com/maps/dir//Christ's+Commission+Fellowship,+MacArthur+Highway,+Malolos,+Central+Luzon,+Philippines/@14.8509263,120.8184756,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x339653cf49ae7357:0x193dcc80777b955!2m2!1d120.820665!2d14.850846\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET DIRECTIONS</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.facebook.com/Glorious-Hope-Malolos-349867195379527/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>PAGE</a>"
         },
         {
