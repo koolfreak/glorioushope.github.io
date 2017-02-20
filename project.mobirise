@@ -6368,7 +6368,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/166-photography-wood-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/166_photography_wood-2000x1125.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6836,7 +6836,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/166-photography-wood-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/166_photography_wood-2000x1125.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
