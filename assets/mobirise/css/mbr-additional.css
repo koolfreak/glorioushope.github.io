@@ -2156,6 +2156,9 @@ h6,
 #header1-8i .mbr-section-title {
   color: #ffffff;
 }
+#header1-8i .btn {
+  font-size: 10px;
+}
 #menu-89 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2239,6 +2242,14 @@ h6,
   color: #ffffff;
 }
 #header1-8e .mbr-section-title {
+  color: #ffffff;
+  font-size: 60px;
+}
+#header1-8p .mbr-section-lead {
+  font-size: 18px;
+  color: #ffffff;
+}
+#header1-8p .mbr-section-title {
   color: #ffffff;
   font-size: 60px;
 }
