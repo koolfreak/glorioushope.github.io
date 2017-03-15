@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.com",
-    "currentPage": "index.html",
+    "currentPage": "Blog.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,10 @@
     "favicon": "@PROJECT_PATH@/assets/images/gh-person-orange-128x123-11.png",
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-91689130-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "Join.html": {
@@ -1822,10 +1825,6 @@
             },
             ".lead P": {
               "text-align": "left"
-            },
-            ".lead": {
-              "text-align": "left",
-              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -1855,7 +1854,7 @@
             "showButton": false
           },
           "title": "FEATURED ARTICLES",
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">To see more articles, click <a href=\"https://glorioushopeblog.wordpress.com\" target=\"_blank\" class=\"text-warning\">HERE</a>.</span><br></p>",
+          "text": "<p>To see more articles, click <a href=\"https://glorioushopeblog.wordpress.com\" class=\"text-warning\">HERE</a><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1888,7 +1887,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/usapang-hugot-episode-2-love-lost-and-found-with-susie-chua-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/usapang%20hugot%20%E2%80%93%20episode%202-%20love%20lost%20and%20found%20with%20susie%20chua-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1904,7 +1903,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/09/usapang-hugot-episode-2-love-lost-and-found-with-susie-chua/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/usapang-hugot-episode-1-saan-ka-nga-ba-humuhugot-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/usapang%20hugot%20%E2%80%93%20episode%201-%20saan%20ka%20nga%20ba%20humuhugot-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1920,7 +1919,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/08/usapang-hugot-episode-1-saan-ka-nga-ba-humuhugot/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/usapang-hugot-live-on-dwiz-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/usapang%20hugot%20live%20on%20dwiz-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1932,11 +1931,11 @@
           },
           "title3": "Usapang Hugot Live on DWIZ!",
           "subtitle3": "Words by: Sel",
-          "caption3": "Glorious Hope (GH), a ministry of Christ's Commission Fellowship or CCF, launched its very own radio program called Usapang Hugot that was aired on DWIZ 882 AM radio last February 26, 2017. The very first episode of the program featured &nbsp;… ",
-          "button3": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/07/usapang-hugot-live-on-dwiz/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
+          "caption3": "Glorious Hope (GH), a ministry of Christ's Commission Fellowship or CCF, launched its very own radio program called Usapang Hugot that was aired on DWIZ 882 AM radio last February 26, 2017. The very first episode of the program featured &nbsp;…",
+          "button3": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/07/usapang-hugot-live-on-dwiz\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/issues-discussed-at-glorious-hope-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/issues%20discussed%20at%20glorious%20hope-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1948,11 +1947,11 @@
           },
           "title4": "Issues Discussed at Glorious Hope",
           "subtitle4": "Words by: Sel",
-          "caption4": "Glorious Hope deals with a wide range of issues and concerns and not just what others perceive as a basket case.  From low self-esteem to addiction and effects of abuse, Glorious Hope has seen people overcome their hurts, habits, and hang ups as they &nbsp;… ",
+          "caption4": "Glorious Hope deals with a wide range of issues and concerns and not just what others perceive as a basket case. From low self-esteem to addiction and effects of abuse, Glorious Hope has seen people overcome their hurts, habits, and hang ups as they &nbsp;… ",
           "button4": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/01/31/issues-discussed-at-glorious-hope/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gh-2016-mid-run-fellowship-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gh%202016%20mid-run%20fellowship-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1964,11 +1963,11 @@
           },
           "title5": "GH 2016 Mid-Run Fellowship",
           "subtitle5": "Words by: Diwata",
-          "caption5": "Pizza. Cake. Litson.  It was as if there was a feast at Glorious Hope last Saturday, August 13, 2016.  Hawaiian. Cowboys. Princesses. These were some of the many themes that the participants thought of as they interpreted this year's &nbsp;… ",
+          "caption5": "Pizza. Cake. Litson. It was as if there was a feast at Glorious Hope last Saturday, August 13, 2016. Hawaiian. Cowboys. Princesses. These were some of the many themes that the participants thought of as they interpreted this year's &nbsp;… ",
           "button5": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2016/08/17/gh-2016-mid-run-fellowship/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/digging-for-desire-part-1-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/digging%20for%20desire%20%E2%80%93%20part%201-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1980,7 +1979,7 @@
           },
           "title6": "Digging for Desire – Part 1",
           "subtitle6": "Words by: Coco",
-          "caption6": "I'll tell you what I want, what I really really want,  So tell me what you want, what you really really want,  I wanna, I wanna, I wanna, I wanna, I wanna really really really wanna zigazig ha.  -Spice Girls What do you want? What do you really, really want? …",
+          "caption6": "I'll tell you what I want, what I really really want, So tell me what you want, what you really really want, I wanna, I wanna, I wanna, I wanna, I wanna really really really wanna zigazig ha. -Spice Girls What do you want? What do you really, really want? …",
           "button6": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2016/07/23/digging-for-desire-part-1/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>"
         },
         {
