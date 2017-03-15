@@ -2182,7 +2182,7 @@
       "settings": {
         "main": true,
         "title": "Glorious Hope",
-        "meta_descr": "Recovery ",
+        "meta_descr": "Recovery Program comforting people with different issues in their lives and providing tools to understand their unaddressed hurts to let go and move on to fostering spritual maturity. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -4622,7 +4622,7 @@
     },
     "UnderConstruction.html": {
       "settings": {
-        "title": "Glorious Hope - About The Program",
+        "title": "Glorious Hope - Under Construction",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -5890,7 +5890,7 @@
     },
     "Issues.html": {
       "settings": {
-        "title": "Glorious Hope - Issues",
+        "title": "Glorious Hope - Issues Discussed",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -7388,7 +7388,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.3",
-            "overlayColor": "#000",
+            "overlayColor": "#000000",
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
