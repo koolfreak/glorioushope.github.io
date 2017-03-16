@@ -907,10 +907,6 @@ h6,
 #msg-box8-38 .lead P {
   text-align: left;
 }
-#msg-box8-38 .lead {
-  text-align: left;
-  color: #ffffff;
-}
 #menu-33 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -984,99 +980,6 @@ h6,
 #social-buttons4-4k .mbr-section-title {
   font-size: 20px;
   color: #ffffff;
-}
-#contacts1-15 P {
-  color: #000000;
-}
-#contacts1-15 STRONG {
-  color: #000000;
-}
-
-
-
-#menu-0 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-0 .navbar-caption {
-  color: #ffffff;
-}
-#menu-0 .navbar-toggler {
-  color: #ffffff;
-}
-#menu-0 .close-icon::before,
-#menu-0 .close-icon::after {
-  background-color: #ffffff;
-}
-#menu-0 .link,
-#menu-0 .dropdown-item {
-  color: #ffffff;
-  font-family: 'Oxygen', sans-serif;
-}
-#menu-0 .link {
-  font-size: 0.75rem;
-}
-#menu-0 .dropdown-item,
-#menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#menu-0 .link:hover,
-#menu-0 .dropdown-item:hover,
-#menu-0 .link:focus,
-#menu-0 .dropdown-item:focus {
-  color: #41a85f;
-}
-#menu-0 .link[aria-expanded="true"],
-#menu-0 .dropdown-menu {
-  background: #0e0e0e;
-}
-#menu-0 .nav-dropdown-sm .link:focus,
-#menu-0 .nav-dropdown-sm .link:hover,
-#menu-0 .nav-dropdown-sm .dropdown-item:focus,
-#menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#menu-0 .navbar,
-#menu-0 .nav-dropdown-sm,
-#menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#menu-0 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-0 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-0 .bg-color.transparent.opened .link:hover,
-#menu-0 .bg-color.transparent.opened .link:focus {
-  color: #41a85f;
-}
-#menu-0 .link[aria-expanded="true"],
-#menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #41a85f!important;
-}
-#header1-2 .mbr-section-lead {
-  font-size: 18px;
-  color: #ffffff;
-  font-family: 'Oxygen', sans-serif;
-  text-align: center;
-}
-#header1-2 .mbr-section-title {
-  color: #ffffff;
-  font-family: 'Oxygen', sans-serif;
-}
-#social-buttons4-s .mbr-section-title,
-#social-buttons4-s .btn-social {
-  color: #fff;
-}
-#social-buttons4-s .mbr-section-title {
-  font-size: 20px;
-  color: #ffffff;
-}
-#footer1-r P {
-  color: #000000;
-  text-align: right;
 }
 #contacts1-15 P {
   color: #000000;
@@ -2153,5 +2056,186 @@ h6,
   color: #000000;
 }
 #contacts1-8h STRONG {
+  color: #000000;
+}
+
+#menu-8w .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-8w .navbar-caption {
+  color: #ffffff;
+}
+#menu-8w .navbar-toggler {
+  color: #ffffff;
+}
+#menu-8w .close-icon::before,
+#menu-8w .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-8w .link,
+#menu-8w .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#menu-8w .link {
+  font-size: 0.75rem;
+}
+#menu-8w .dropdown-item,
+#menu-8w .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-8w .link:hover,
+#menu-8w .dropdown-item:hover,
+#menu-8w .link:focus,
+#menu-8w .dropdown-item:focus {
+  color: #41a85f;
+}
+#menu-8w .link[aria-expanded="true"],
+#menu-8w .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-8w .nav-dropdown-sm .link:focus,
+#menu-8w .nav-dropdown-sm .link:hover,
+#menu-8w .nav-dropdown-sm .dropdown-item:focus,
+#menu-8w .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-8w .navbar,
+#menu-8w .nav-dropdown-sm,
+#menu-8w .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-8w .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-8w .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-8w .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-8w .bg-color.transparent.opened .link:hover,
+#menu-8w .bg-color.transparent.opened .link:focus {
+  color: #41a85f;
+}
+#menu-8w .link[aria-expanded="true"],
+#menu-8w .dropdown-item[aria-expanded="true"] {
+  color: #41a85f!important;
+}
+#header1-8x .mbr-section-lead {
+  font-size: 18px;
+  color: #efefef;
+}
+#header1-8x .mbr-section-title {
+  color: #ffffff;
+}
+#social-buttons4-8y .mbr-section-title,
+#social-buttons4-8y .btn-social {
+  color: #fff;
+}
+#social-buttons4-8y .mbr-section-title {
+  font-size: 20px;
+  color: #ffffff;
+}
+#footer1-8z P {
+  color: #000000;
+  text-align: right;
+}
+#contacts1-90 P {
+  color: #000000;
+}
+#contacts1-90 STRONG {
+  color: #000000;
+}
+
+
+
+#menu-0 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-0 .navbar-caption {
+  color: #ffffff;
+}
+#menu-0 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-0 .close-icon::before,
+#menu-0 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-0 .link,
+#menu-0 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#menu-0 .link {
+  font-size: 0.75rem;
+}
+#menu-0 .dropdown-item,
+#menu-0 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-0 .link:hover,
+#menu-0 .dropdown-item:hover,
+#menu-0 .link:focus,
+#menu-0 .dropdown-item:focus {
+  color: #41a85f;
+}
+#menu-0 .link[aria-expanded="true"],
+#menu-0 .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-0 .nav-dropdown-sm .link:focus,
+#menu-0 .nav-dropdown-sm .link:hover,
+#menu-0 .nav-dropdown-sm .dropdown-item:focus,
+#menu-0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-0 .navbar,
+#menu-0 .nav-dropdown-sm,
+#menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-0 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-0 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-0 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-0 .bg-color.transparent.opened .link:hover,
+#menu-0 .bg-color.transparent.opened .link:focus {
+  color: #41a85f;
+}
+#menu-0 .link[aria-expanded="true"],
+#menu-0 .dropdown-item[aria-expanded="true"] {
+  color: #41a85f!important;
+}
+#header1-2 .mbr-section-lead {
+  font-size: 18px;
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+}
+#header1-2 .mbr-section-title {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#social-buttons4-s .mbr-section-title,
+#social-buttons4-s .btn-social {
+  color: #fff;
+}
+#social-buttons4-s .mbr-section-title {
+  font-size: 20px;
+  color: #ffffff;
+}
+#footer1-r P {
+  color: #000000;
+  text-align: right;
+}
+#contacts1-15 P {
+  color: #000000;
+}
+#contacts1-15 STRONG {
   color: #000000;
 }
