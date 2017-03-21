@@ -280,7 +280,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -774,7 +774,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -1149,7 +1149,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -1534,7 +1534,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 13
+        "order": 16
       },
       "components": [
         {
@@ -1808,7 +1808,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2357,7 +2357,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-57.jpg",
+              "src": "@PROJECT_PATH@/assets/images/female-icon-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2373,7 +2373,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-99.jpg",
+              "src": "@PROJECT_PATH@/assets/images/male-icon-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2389,7 +2389,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-36.jpg",
+              "src": "@PROJECT_PATH@/assets/images/female-icon-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2405,7 +2405,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-79.jpg",
+              "src": "@PROJECT_PATH@/assets/images/male-icon-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2421,7 +2421,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/more-600x403-37.jpg",
+              "src": "@PROJECT_PATH@/assets/images/more-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2533,7 +2533,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ghlogo-128x44-61.png",
+              "src": "@PROJECT_PATH@/assets/images/ghlogo-128x44.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -2563,7 +2563,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 14
+        "order": 9
       },
       "components": [
         {
@@ -2735,7 +2735,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-57.jpg",
+              "src": "@PROJECT_PATH@/assets/images/female-icon-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2751,7 +2751,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-99.jpg",
+              "src": "@PROJECT_PATH@/assets/images/male-icon-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2767,7 +2767,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-36.jpg",
+              "src": "@PROJECT_PATH@/assets/images/female-icon-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2783,7 +2783,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-79.jpg",
+              "src": "@PROJECT_PATH@/assets/images/male-icon-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2799,7 +2799,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-24.jpg",
+              "src": "@PROJECT_PATH@/assets/images/female-icon-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2815,142 +2815,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-46.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title6": "Experiencing God’s Hand",
-          "subtitle6": "Maria Dela Cruz",
-          "caption6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button6": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "H4": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "17px"
-            },
-            "P": {
-              "font-size": "13px"
-            }
-          },
-          "_anchor": "features3-8j",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "6",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-577.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Tiffany Ocampo",
-              "title": "Tiffany Ocampo",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Resting In His Promises",
-          "subtitle1": "Maria Dela Cruz",
-          "caption1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button1": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-998.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Joseph Tanchi",
-              "title": "Joseph Tanchi",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Moving out, Moving In",
-          "subtitle2": "Juan Dela Cruz",
-          "caption2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button2": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-369.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Annabelle Young",
-              "title": "Annabelle Young",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Experiencing God’s Hand",
-          "subtitle3": "Maria Dela Cruz",
-          "caption3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button3": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-7910.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Jojo Macatangay",
-              "title": "Jojo Macatangay",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "Only by Grace",
-          "subtitle4": "Juan Dela Cruz&nbsp;",
-          "caption4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button4": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-2411.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title5": "Resting In His Promises",
-          "subtitle5": "Maria Dela Cruz",
-          "caption5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button5": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-4612.jpg",
+              "src": "@PROJECT_PATH@/assets/images/female-icon-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3006,411 +2871,6 @@
               "font-size": "13px"
             }
           },
-          "_anchor": "features3-8k",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "6",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-57-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Tiffany Ocampo",
-              "title": "Tiffany Ocampo",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Resting In His Promises",
-          "subtitle1": "Maria Dela Cruz",
-          "caption1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button1": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-99-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Joseph Tanchi",
-              "title": "Joseph Tanchi",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Moving out, Moving In",
-          "subtitle2": "Juan Dela Cruz",
-          "caption2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button2": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-36-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Annabelle Young",
-              "title": "Annabelle Young",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Experiencing God’s Hand",
-          "subtitle3": "Maria Dela Cruz",
-          "caption3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button3": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-79-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Jojo Macatangay",
-              "title": "Jojo Macatangay",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "Only by Grace",
-          "subtitle4": "Juan Dela Cruz&nbsp;",
-          "caption4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button4": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-24-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title5": "Resting In His Promises",
-          "subtitle5": "Maria Dela Cruz",
-          "caption5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button5": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-46-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title6": "Experiencing God’s Hand",
-          "subtitle6": "Maria Dela Cruz",
-          "caption6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button6": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "H4": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "17px"
-            },
-            "P": {
-              "font-size": "13px"
-            }
-          },
-          "_anchor": "features3-8l",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "6",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-57-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Tiffany Ocampo",
-              "title": "Tiffany Ocampo",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Resting In His Promises",
-          "subtitle1": "Maria Dela Cruz",
-          "caption1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button1": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-99-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Joseph Tanchi",
-              "title": "Joseph Tanchi",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Moving out, Moving In",
-          "subtitle2": "Juan Dela Cruz",
-          "caption2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button2": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-36-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Annabelle Young",
-              "title": "Annabelle Young",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Experiencing God’s Hand",
-          "subtitle3": "Maria Dela Cruz",
-          "caption3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button3": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-79-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Jojo Macatangay",
-              "title": "Jojo Macatangay",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "Only by Grace",
-          "subtitle4": "Juan Dela Cruz&nbsp;",
-          "caption4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button4": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-24-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title5": "Resting In His Promises",
-          "subtitle5": "Maria Dela Cruz",
-          "caption5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button5": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-46-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title6": "Experiencing God’s Hand",
-          "subtitle6": "Maria Dela Cruz",
-          "caption6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button6": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "H4": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "17px"
-            },
-            "P": {
-              "font-size": "13px"
-            }
-          },
-          "_anchor": "features3-8m",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "6",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-57-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Tiffany Ocampo",
-              "title": "Tiffany Ocampo",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Resting In His Promises",
-          "subtitle1": "Maria Dela Cruz",
-          "caption1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button1": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-99-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Joseph Tanchi",
-              "title": "Joseph Tanchi",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Moving out, Moving In",
-          "subtitle2": "Juan Dela Cruz",
-          "caption2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button2": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-36-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Annabelle Young",
-              "title": "Annabelle Young",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Experiencing God’s Hand",
-          "subtitle3": "Maria Dela Cruz",
-          "caption3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button3": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-79-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Jojo Macatangay",
-              "title": "Jojo Macatangay",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "Only by Grace",
-          "subtitle4": "Juan Dela Cruz&nbsp;",
-          "caption4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button4": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-24-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title5": "Resting In His Promises",
-          "subtitle5": "Maria Dela Cruz",
-          "caption5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button5": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-46-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title6": "Experiencing God’s Hand",
-          "subtitle6": "Maria Dela Cruz",
-          "caption6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida gravida ex pretium pharetra...",
-          "button6": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "H4": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "17px"
-            },
-            "P": {
-              "font-size": "13px"
-            }
-          },
           "_anchor": "features3-8n",
           "_params": {
             "paddingTop": "1",
@@ -3436,7 +2896,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-57-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/female-icon-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3452,7 +2912,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-600x403-99-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/male-icon-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3468,7 +2928,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-36-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/female-icon-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3484,7 +2944,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/male-portrait-2-600x403-79-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/male-icon-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3500,7 +2960,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-600x403-24-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/female-icon-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3516,7 +2976,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"UnderConstruction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">READ</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/female-portrait-2-600x403-46-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/female-icon-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3620,7 +3080,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 15
+        "order": 14
       },
       "components": [
         {
@@ -3997,7 +3457,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
