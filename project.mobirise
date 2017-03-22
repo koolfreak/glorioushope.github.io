@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.com",
-    "currentPage": "index.html",
+    "currentPage": "Blog.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 325,
+    "uniqCompNum": 327,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/gh-person-orange-128x123-11.png",
     "noImageResize": "",
@@ -1851,7 +1851,7 @@
             "showButton": false
           },
           "title": "FEATURED ARTICLES",
-          "text": "<p>To see more articles, click <a href=\"https://glorioushopeblog.wordpress.com\" class=\"text-warning\">HERE</a><br></p>",
+          "text": "<p>To see more articles, click <a href=\"https://glorioushopeblog.wordpress.com/blog/\" class=\"text-warning\" target=\"_blank\">HERE</a><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1884,7 +1884,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/usapang-hugot-episode-2-love-lost-and-found-with-susie-chua-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/uh-episode-2-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1900,7 +1900,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/09/usapang-hugot-episode-2-love-lost-and-found-with-susie-chua/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/usapang-hugot-episode-1-saan-ka-nga-ba-humuhugot-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/uh-episode-1-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1916,7 +1916,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/08/usapang-hugot-episode-1-saan-ka-nga-ba-humuhugot/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/usapang-hugot-live-on-dwiz-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/uh-announcement-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1932,7 +1932,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/07/usapang-hugot-live-on-dwiz\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/issues-discussed-at-glorious-hope-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0002-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1948,7 +1948,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/01/31/issues-discussed-at-glorious-hope/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gh-2016-mid-run-fellowship-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0001-600x400.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1964,7 +1964,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2016/08/17/gh-2016-mid-run-fellowship/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/digging-for-desire-part-1-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0007-600x400.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1978,32 +1978,6 @@
           "subtitle6": "Words by: Coco",
           "caption6": "I'll tell you what I want, what I really really want, So tell me what you want, what you really really want, I wanna, I wanna, I wanna, I wanna, I wanna really really really wanna zigazig ha. -Spice Girls What do you want? What do you really, really want? …",
           "button6": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2016/07/23/digging-for-desire-part-1/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "right"
-            }
-          },
-          "_anchor": "footer1-37",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "©  2016 Glorious Hope"
         },
         {
           "_inherit": "social-buttons2",
@@ -2035,6 +2009,32 @@
           },
           "text": "FOLLOW US",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"http://facbook.com/ghprogram\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCGn2OWlpTC9C6mO_QYHDVNw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/glorious.hope/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://twitter.com/GloriousHopeCCF\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>     "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-37",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "©  2016 Glorious Hope"
         },
         {
           "_tags": [

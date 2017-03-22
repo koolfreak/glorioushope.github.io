@@ -907,10 +907,6 @@ h6,
 #msg-box8-38 .lead P {
   text-align: left;
 }
-#footer1-37 P {
-  color: #000000;
-  text-align: right;
-}
 #social-buttons4-4k .mbr-section-title,
 #social-buttons4-4k .btn-social {
   color: #fff;
@@ -918,6 +914,10 @@ h6,
 #social-buttons4-4k .mbr-section-title {
   font-size: 20px;
   color: #ffffff;
+}
+#footer1-37 P {
+  color: #000000;
+  text-align: right;
 }
 #contacts1-15 P {
   color: #000000;
