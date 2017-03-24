@@ -61,7 +61,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -307,7 +307,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -365,7 +365,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/center-1400x1555.png",
+              "src": "@PROJECT_PATH@/assets/images/ccf%20center%20map-1400x1555.png",
               "link": "",
               "alt": "",
               "title": "CCF Center Map",
@@ -426,7 +426,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/alabang-1400x1555.png",
+              "src": "@PROJECT_PATH@/assets/images/ccf%20alabang%20map-1400x1555.png",
               "link": "",
               "alt": "Glorious Hope CCF Malolos Map",
               "title": "Glorious Hope CCF Malolos Map",
@@ -487,7 +487,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/katipunan-1400x1555.png",
+              "src": "@PROJECT_PATH@/assets/images/ccf%20katipunan%20map-1400x1555.png",
               "link": "",
               "alt": "Glorious Hope CCF Katipunan Map",
               "title": "Glorious Hope CCF Katipunan Map",
@@ -548,7 +548,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/malolos-1400x1559.png",
+              "src": "@PROJECT_PATH@/assets/images/ccf%20malolos%20map-1400x1559.png",
               "link": "",
               "alt": "Glorious Hope CCF Malolos Map",
               "title": "Glorious Hope CCF Malolos Map",
@@ -797,7 +797,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -829,7 +829,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/hoodie-white-2000x944.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gh%20hoodie%20white%201-2000x944.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -845,7 +845,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/hoodie-white-1-2000x944.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gh%20hoodie%20white%203-2000x944.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -860,7 +860,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/hoodie-gray-2000x944.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gh%20hoodie%20gray%201-2000x944.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -875,7 +875,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/hoodie-gray-1-2000x944.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gh%20hoodie%20gray%203-2000x944.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -890,7 +890,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/cap-2000x944.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cap%201-2000x944.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -905,7 +905,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/tumbler-2000x944.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gh%20tumbler%201-2000x944.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -920,7 +920,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/tumbler-1-2000x944.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gh%20tumbler%202-2000x944.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1168,7 +1168,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/give-bg-2000x1111.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gift-1420830-2000x1111.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1552,7 +1552,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x1125.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": false,
@@ -1821,7 +1821,7 @@
             "paddingBottom": "2",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blog-bg-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blog%20autumn-2000x1250.jpg",
             "bgColor": "#cccccc",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1871,7 +1871,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/uh-e-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/uh%20episode%204-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1887,7 +1887,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/23/episode-4-usapang-hugot-i-deserve-to-be-happy-with-salve-mariano/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/uh-e-1-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/uh%20episode%203-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1903,7 +1903,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/22/episode-3-usapang-hugot-ipagpatawad-mo-with-cesar-chua/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/uh-e-2-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/uh%20episode%202-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1919,7 +1919,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/09/usapang-hugot-episode-2-love-lost-and-found-with-susie-chua/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/uh-e-3-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/uh%20episode%201-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1935,7 +1935,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/08/usapang-hugot-episode-1-saan-ka-nga-ba-humuhugot/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/uh-announcement-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/uh%20announcement-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1951,7 +1951,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/07/usapang-hugot-live-on-dwiz\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/art-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0002-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2193,7 +2193,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2568,7 +2568,7 @@
             "paddingBottom": "2",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x1125.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2951,7 +2951,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/give-deposit-bg-2000x1323.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/close-up-1835934-2000x1323.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3035,7 +3035,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BANK TRANSFER FORM</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/security-bank-600x225.png",
+              "src": "@PROJECT_PATH@/assets/images/security%20bank-600x225.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3328,7 +3328,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/give-deposit-bg-2000x1323.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/close-up-1835934-2000x1323.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3412,7 +3412,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BANK TRANSFER FORM</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/security-bank-600x225.png",
+              "src": "@PROJECT_PATH@/assets/images/security%20bank-600x225.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3705,7 +3705,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3946,7 +3946,7 @@
             "paddingBottom": "2",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/issues-bg-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/166_photography_wood-2000x1125.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4671,7 +4671,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/participate-bg-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bigstock-group-of-diverse-hands-togethe-2000x1334.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4918,7 +4918,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4957,7 +4957,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/life-coach-bg-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gh%20workers%2012-2000x1125.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4996,7 +4996,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/marketing-bg-2000x1123.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mockup-863469-2000x1123.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5035,7 +5035,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/events-bg-2000x1329.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/audience-868074-2000x1329.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5074,7 +5074,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/secretariat-bg-2000x1221.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/apple-1850613-2000x1221.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5318,7 +5318,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/prayer-fasting-bg-2000x1329.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/prayerfasting-2000x1329.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5568,7 +5568,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5814,7 +5814,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5849,7 +5849,7 @@
             "paddingBottom": "3",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/issues-bg-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/166_photography_wood-2000x1125.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6322,7 +6322,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6366,7 +6366,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6410,7 +6410,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6454,7 +6454,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6523,7 +6523,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/violeta-bautista-600x403.png",
+              "src": "@PROJECT_PATH@/assets/images/violeta%20bautista-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6539,7 +6539,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/carmela-encanacion-600x403.png",
+              "src": "@PROJECT_PATH@/assets/images/carmela%20encanacion-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6555,7 +6555,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/monina-garduno-cruz-600x403.png",
+              "src": "@PROJECT_PATH@/assets/images/monina%20garduno-cruz-600x403.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
