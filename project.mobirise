@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.com",
-    "currentPage": "index",
+    "currentPage": "participate",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,12 +21,15 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 327,
+    "uniqCompNum": 328,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/gh-person-orange-128x123.png",
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-91689130-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "under-construction": {
@@ -2523,27 +2526,17 @@
       },
       "components": [
         {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-lead": {
-              "color": "#ffffff",
-              "font-size": "17px"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header5",
-          "_anchor": "header5-82",
+          "_name": "header1",
+          "_anchor": "header1-93",
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/participate-bg-2000x1334.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2558,8 +2551,17 @@
             "showButtons": true
           },
           "title": "Join as a participant",
-          "text": "<p>If you ...<br><br>• are male or female,<br>• are 14 years old or older,<br>• want to be equipped to address personal issues and more,<br><br>you are more than welcome to join us. We are now in more than one location! Click <a href=\"locations\" target=\"_blank\"><b>here</b></a><a href=\"Locations.html\" target=\"_blank\" class=\"text-warning\"><b></b></a> to check out the nearest CCF church near you.<br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc3rtXrEy7_v5brtYce8pYfjKNedQ-eB_XR46DyzfRE1L1sMQ/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>"
+          "text": "<br>If you ...<br><br>• are male or female,<br>• are 14 years old or older,<br>• want to be equipped to address personal issues and more,<br><br>you are more than welcome to join us. We are now in more than one location! Click <a href=\"locations\" class=\"text-warning\">here</a> to check out the nearest CCF church near you.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc3rtXrEy7_v5brtYce8pYfjKNedQ-eB_XR46DyzfRE1L1sMQ/viewform\" data-toolbar=\"-mbrBtnMove\">REGISTER</a> ",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "left",
+              "font-size": "17px"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_inherit": "social-buttons2",
