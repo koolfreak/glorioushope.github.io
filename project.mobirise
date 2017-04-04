@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.com",
-    "currentPage": "blog",
+    "currentPage": "index",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3193,7 +3193,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5567,7 +5567,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/close-up-1835934-2000x1323.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/give-deposit-bg-2000x1323.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
