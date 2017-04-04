@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.com",
-    "currentPage": "participate",
+    "currentPage": "blog",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2530,6 +2530,15 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "left",
+              "font-size": "17px"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header1-93",
           "_params": {
             "parallax": false,
@@ -2552,16 +2561,7 @@
           },
           "title": "Join as a participant",
           "text": "<br>If you ...<br><br>• are male or female,<br>• are 14 years old or older,<br>• want to be equipped to address personal issues and more,<br><br>you are more than welcome to join us. We are now in more than one location! Click <a href=\"locations\" class=\"text-warning\">here</a> to check out the nearest CCF church near you.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc3rtXrEy7_v5brtYce8pYfjKNedQ-eB_XR46DyzfRE1L1sMQ/viewform\" data-toolbar=\"-mbrBtnMove\">REGISTER</a> ",
-          "_styles": {
-            ".mbr-section-lead": {
-              "text-align": "left",
-              "font-size": "17px"
-            },
-            ".mbr-section-title": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc3rtXrEy7_v5brtYce8pYfjKNedQ-eB_XR46DyzfRE1L1sMQ/viewform\" data-toolbar=\"-mbrBtnMove\">REGISTER</a> "
         },
         {
           "_inherit": "social-buttons2",
@@ -4000,7 +4000,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/uh-e-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/uh-e-600x400.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4010,13 +4010,13 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Episode 5: Usapang Hugot – Laki sa layaw, Jeproks with Boy Valenzuela",
+          "title1": "Episode 6: Usapang Hugot – “May Halaga Ba ang Buhay” with Susan Blancaflor",
           "subtitle1": "Words by: Ancore",
-          "caption1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex …",
-          "button1": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/23/episode-4-usapang-hugot-i-deserve-to-be-happy-with-salve-mariano/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
+          "caption1": "Contrary to the society's notion of sex, God created sex as a gift and an expression of love to be enjoyed by married couples. With this generation's idea of liberty, sexual freedom has turned this gift into something that God did not intend it to …",
+          "button1": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/04/03/episode-6-usapang-hugot-may-halaga-ba-ang-buhay-with-susan-blancaflor/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/uh-e-4-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/uh-e-5-600x400.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4026,13 +4026,13 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Episode 4: Usapang Hugot – I deserve to be happy with Salve Mariano&nbsp;",
-          "subtitle2": "Words by: Sel",
-          "caption2": "Is it wrong to seek one’s happiness first? You’ve done everything you could to make other people happy. Why not put yourself first this time? <br><br>“It doesn’t take much to make me happy.” …<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/23/episode-4-usapang-hugot-i-deserve-to-be-happy-with-salve-mariano/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
+          "title2": "Episode 5: Usapang Hugot – Laki sa layaw, Jeproks with Boy Valenzuela",
+          "subtitle2": "Words by: Ancore",
+          "caption2": "If you can do everything you can in your power so that your loved ones, especially your kids, won’t have to suffer any pain, trouble, and humiliation, would you give whatever it takes? Probably not.&nbsp;Getting all that you want ...<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/30/episode-5-usapang-hugot-laki-sa-layaw-jeproks-with-boy-valenzuela/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/uh-e-3-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/uh-e-4-600x400.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4042,13 +4042,13 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Episode 3: Usapang Hugot – Ipagpatawad Mo with Cesar Chua",
+          "title3": "Episode 4: Usapang Hugot – I deserve to be happy with Salve Mariano&nbsp;",
           "subtitle3": "Words by: Sel",
-          "caption3": "If you are a good-willed man or woman, aiming to be a good provider to give your family the best possible life is one of the things you desire. You work hard all week to make sure you provide not only for your family's needs but also for their …",
-          "button3": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/22/episode-3-usapang-hugot-ipagpatawad-mo-with-cesar-chua/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
+          "caption3": "Is it wrong to seek one’s happiness first? You’ve done everything you could to make other people happy. Why not put yourself first this time? <br><br>“It doesn’t take much to make me happy.” …<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/23/episode-4-usapang-hugot-i-deserve-to-be-happy-with-salve-mariano/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/uh-e-2-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/uh-e-3-600x400.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4058,13 +4058,13 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Episode 2: Usapang Hugot –  Love Lost and Found with Susie Chua",
+          "title4": "Episode 3: Usapang Hugot – Ipagpatawad Mo with Cesar Chua",
           "subtitle4": "Words by: Sel",
-          "caption4": "Having one or two absentee parents has become a normal Filipino set-up for some time now. Different situations call for this arrangement. A parent needs to work abroad. Both parents cannot give up … ",
-          "button4": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/09/usapang-hugot-episode-2-love-lost-and-found-with-susie-chua/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
+          "caption4": "If you are a good-willed man or woman, aiming to be a good provider to give your family the best possible life is one of the things you desire. You work hard all week to make sure you provide not only for your family's needs but also for their … ",
+          "button4": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/22/episode-3-usapang-hugot-ipagpatawad-mo-with-cesar-chua/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/uh-e-1-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/uh-e-2-600x400.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4074,13 +4074,13 @@
               "linkInNewWindow": false
             }
           },
-          "title5": "Episode 1: Usapang Hugot – Saan ka nga ba humuhugot?",
+          "title5": "Episode 2: Usapang Hugot – Love Lost and Found with Susie Chua",
           "subtitle5": "Words by: Sel",
-          "caption5": "Why do I always have the urge to check out my friends' status on Facebook? What's the reason I keep escaping or running away every time I would have disagreements with my parents? Why do I try to get into another … ",
-          "button5": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/08/usapang-hugot-episode-1-saan-ka-nga-ba-humuhugot/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
+          "caption5": "Having one or two absentee parents has become a normal Filipino set-up for some time now. Different situations call for this arrangement. A parent needs to work abroad. Both parents cannot give up … ",
+          "button5": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/09/usapang-hugot-episode-2-love-lost-and-found-with-susie-chua/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/uh-announcement-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/uh-e-1-600x400.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4090,10 +4090,10 @@
               "linkInNewWindow": false
             }
           },
-          "title6": "Usapang Hugot Live on DWIZ!",
+          "title6": "Episode 1: Usapang Hugot – Saan ka nga ba humuhugot?",
           "subtitle6": "Words by: Sel",
-          "caption6": "Glorious Hope (GH), a ministry of Christ's Commission Fellowship or CCF, launched its very own radio program called Usapang Hugot that was aired on DWIZ 882 AM radio last February 26, 2017. The very first episode of the program featured …",
-          "button6": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/07/usapang-hugot-live-on-dwiz\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>"
+          "caption6": "Why do I always have the urge to check out my friends' status on Facebook? What's the reason I keep escaping or running away every time I would have disagreements with my parents? Why do I try to get into another …",
+          "button6": "<a data-app-btn=\"true\" href=\"https://glorioushopeblog.wordpress.com/2017/03/08/usapang-hugot-episode-1-saan-ka-nga-ba-humuhugot/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>"
         },
         {
           "_inherit": "social-buttons2",
