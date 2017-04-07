@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.com",
-    "currentPage": "index",
+    "currentPage": "prayer-and-fasting",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 328,
+    "uniqCompNum": 330,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/gh-person-orange-128x123.png",
     "noImageResize": "",
@@ -2532,19 +2532,15 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-lead": {
-              "text-align": "left",
               "font-size": "17px"
-            },
-            ".mbr-section-title": {
-              "text-align": "left"
             }
           },
-          "_anchor": "header1-93",
+          "_anchor": "header1-95",
           "_params": {
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/participate-bg-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/participate-bg-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2560,8 +2556,8 @@
             "showButtons": true
           },
           "title": "Join as a participant",
-          "text": "<br>If you ...<br><br>• are male or female,<br>• are 14 years old or older,<br>• want to be equipped to address personal issues and more,<br><br>you are more than welcome to join us. We are now in more than one location! Click <a href=\"locations\" class=\"text-warning\">here</a> to check out the nearest CCF church near you.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc3rtXrEy7_v5brtYce8pYfjKNedQ-eB_XR46DyzfRE1L1sMQ/viewform\" data-toolbar=\"-mbrBtnMove\">REGISTER</a> "
+          "text": "<br>If you ...<br><br>• are male or female,<br>• are 14 years old or older,<br>• want to be equipped to address personal issues and more,<br><br>you are more than welcome to join us. We are now in more than one location! Click<a href=\"locations\" class=\"text-warning\"> here</a> to check out the nearest CCF church near you.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc3rtXrEy7_v5brtYce8pYfjKNedQ-eB_XR46DyzfRE1L1sMQ/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a> "
         },
         {
           "_inherit": "social-buttons2",
@@ -6586,7 +6582,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/prayer-fasting-bg-2000x1329.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/prayer-fasting-bg-2000x1322.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
