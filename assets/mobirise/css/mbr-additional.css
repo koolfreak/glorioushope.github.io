@@ -601,6 +601,12 @@ h6,
 #menu-4y .dropdown-item[aria-expanded="true"] {
   color: #41a85f!important;
 }
+#menu-4y.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-4y .mbr-navbar__hamburger {
+  color: #ffffff;
+}
 
 
 
@@ -735,14 +741,8 @@ h6,
   color: #000000;
 }
 
-
-#header1-5x .mbr-section-lead {
+#header1-b9 .mbr-section-lead {
   font-size: 18px;
-  color: #ffffff;
-}
-#header1-5x .mbr-section-title {
-  color: #ffffff;
-  font-family: 'Oxygen', sans-serif;
 }
 #msg-box8-6p .mbr-section-title,
 #msg-box8-6p p {
