@@ -1,4 +1,4 @@
-@import url(../../../https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 
 
@@ -120,8 +120,8 @@ h6,
   border-color: #2c7140 !important;
 }
 .btn-secondary {
-  background-color: #bfcecb;
-  border-color: #bfcecb;
+  background-color: #185496;
+  border-color: #185496;
   color: #ffffff;
 }
 .btn-secondary:hover,
@@ -130,14 +130,14 @@ h6,
 .btn-secondary:active,
 .btn-secondary.active {
   color: #ffffff;
-  background-color: #94ada8;
-  border-color: #94ada8;
+  background-color: #0d2f54;
+  border-color: #0d2f54;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #94ada8 !important;
-  border-color: #94ada8 !important;
+  background-color: #0d2f54 !important;
+  border-color: #0d2f54 !important;
 }
 .btn-info {
   background-color: #faaf40;
@@ -241,8 +241,8 @@ h6,
 }
 .btn-secondary-outline {
   background: none;
-  border-color: #85a29c;
-  color: #85a29c;
+  border-color: #0a233e;
+  color: #0a233e;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
@@ -250,14 +250,14 @@ h6,
 .btn-secondary-outline:active,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #bfcecb;
-  border-color: #bfcecb;
+  background-color: #185496;
+  border-color: #185496;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #bfcecb !important;
-  border-color: #bfcecb !important;
+  background-color: #185496 !important;
+  border-color: #185496 !important;
 }
 .btn-info-outline {
   background: none;
@@ -1020,6 +1020,9 @@ h6,
   font-family: 'Oxygen', sans-serif;
   text-align: left;
 }
+#header1-9b .btn {
+  font-size: 12px;
+}
 #social-buttons4-86 .mbr-section-title,
 #social-buttons4-86 .btn-social {
   color: #fff;
@@ -1233,6 +1236,9 @@ h6,
   color: #ffffff;
   font-family: 'Oxygen', sans-serif;
 }
+#header1-19 .btn {
+  font-size: 11px;
+}
 #msg-box5-2g H3 {
   font-size: 60px;
 }
@@ -1255,6 +1261,18 @@ h6,
   font-size: 18px;
 }
 #msg-box5-1l H3 {
+  font-size: 60px;
+}
+#msg-box5-b7 P {
+  font-size: 18px;
+}
+#msg-box5-b7 H3 {
+  font-size: 60px;
+}
+#msg-box5-b8 P {
+  font-size: 18px;
+}
+#msg-box5-b8 H3 {
   font-size: 60px;
 }
 #social-buttons4-1a .mbr-section-title,
@@ -1928,11 +1946,22 @@ h6,
 #header2-9u .btn {
   font-size: 11px;
 }
-#features3-9k H4 {
+#msg-box8-ab .mbr-section-title,
+#msg-box8-ab p {
+  color: #fff;
+}
+#msg-box8-ab .mbr-section-title {
+  color: #000000;
+  font-size: 60px;
+}
+#features3-b4 H4 {
   font-size: 17px;
 }
-#features3-9k P {
+#features3-b4 P {
   font-size: 13px;
+}
+#msg-box4-9q H3 {
+  font-size: 36px;
 }
 #social-buttons4-14 .mbr-section-title,
 #social-buttons4-14 .btn-social {
