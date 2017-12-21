@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.com",
-    "currentPage": "locations",
+    "currentPage": "index",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 405,
+    "uniqCompNum": 406,
     "versionPublish": "4.5.2",
     "favicon": "@PROJECT_PATH@/assets/images/icon-128x123.png",
     "noImageResize": "",
@@ -50,7 +50,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 17
+        "order": 14
       },
       "components": [
         {
@@ -346,7 +346,8 @@
           },
           "title": "GLORIOUS HOPE",
           "text": "<br>Glorious Hope is a recovery program that helps people deal with their personal issues by gradually uncovering deeply buried childhood hurts that greatly affect how they view themselves, others, their circumstances, and consequently, how they behave.<br><br>This program provides the necessary tools in understanding the relevance of unaddressed hurts in the past and the importance of addressing them in order to let go and move on to fostering spiritual maturity.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"participate\" data-toolbar=\"-mbrBtnMove\">JOIN</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"about-the-program\" data-toolbar=\"-mbrBtnMove\">OUR PROGRAM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"usapang-hugot\" data-toolbar=\"-mbrBtnMove\">USAPANG HUGOT</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"participate\" data-toolbar=\"-mbrBtnMove\">JOIN</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"about-the-program\" data-toolbar=\"-mbrBtnMove\">OUR PROGRAM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"usapang-hugot\" data-toolbar=\"-mbrBtnMove\">USAPANG HUGOT</a>",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet"
         },
         {
           "_inherit": "social-buttons2",
@@ -503,6 +504,13 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#41a85f!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -518,7 +526,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.75",
+            "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1066,22 +1074,6 @@
       },
       "components": [
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "18px",
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          },
-          "_anchor": "header1-5x",
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -1102,8 +1094,18 @@
             "overlayOpacity": 0.5
           },
           "title": "OUR PROGRAM",
-          "text": "<br>Glorious Hope is a program that equips individuals to address personal life issues and more. The systematic process helps them identify and resolve issues that are manifestations of deep-seated hurts as a result of their family dynamics.<br><br>As a way of surviving over the years, people have adopted certain coping mechanisms that have formed and shaped their behavior and attitude\n<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"about-the-program#msg-box8-6p\" data-toolbar=\"-mbrBtnMove\">FAQs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"participate\" data-toolbar=\"-mbrBtnMove\">JOIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"usapang-hugot\" data-toolbar=\"-mbrBtnMove\">USAPANG HUGOT</a> "
+          "text": "<br>Glorious Hope is a program that equips individuals to address personal life issues and more. The systematic process helps them identify and resolve issues that are manifestations of deep-seated hurts as a result of their family dynamics.<br><br>As a way of surviving over the years, people have adopted certain coping mechanisms that have formed and shaped their behavior and attitude&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"participate\" data-toolbar=\"-mbrBtnMove\">JOIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"about-the-program#msg-box8-6p\" data-toolbar=\"-mbrBtnMove\">FAQs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"usapang-hugot\" data-toolbar=\"-mbrBtnMove\">USAPANG HUGOT</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-b9",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_styles": {
@@ -1319,7 +1321,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Attendance, snacks, and drinks are FREE</b>! Participants are asked to pay ₱100 for each workbook. Donations are also welcome. Click <b><a href=\"Give.html\">HERE</a></b> to see instructions on how you can donate to this program.</span><br></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Attendance, snacks, and drinks are FREE</b>! Participants are asked to pay ₱100 for each workbook. Donations are also welcome. Click <b><a href=\"give\">HERE</a></b> to see instructions on how you can donate to this program.</span><br></p>"
         },
         {
           "_tags": [
@@ -2291,7 +2293,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 15
       },
       "components": [
         {
@@ -2557,7 +2559,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -2810,7 +2812,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -3213,7 +3215,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 10
+        "order": 7
       },
       "components": [
         {
@@ -3256,8 +3258,9 @@
             "overlayOpacity": 0.5
           },
           "title": "SATELLITE LOCATIONS",
-          "text": "<br>Glorious Hope has 4 locations where you can participate, volunteer, and inquire about the program.<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-2g\" data-toolbar=\"-mbrBtnMove\">CCF CENTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-1h\" data-toolbar=\"-mbrBtnMove\">ALABANG</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-1k\" data-toolbar=\"-mbrBtnMove\">KATIPUNAN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-1l\" data-toolbar=\"-mbrBtnMove\">MALOLOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-b7\" data-toolbar=\"-mbrBtnMove\">PASAY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-b8\" data-toolbar=\"-mbrBtnMove\">N. EDSA</a>"
+          "text": "<br>Glorious Hope has 6 locations where you can participate, volunteer, and inquire about the program.<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-2g\" data-toolbar=\"-mbrBtnMove\">CCF CENTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-1h\" data-toolbar=\"-mbrBtnMove\">ALABANG</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-1k\" data-toolbar=\"-mbrBtnMove\">KATIPUNAN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-1l\" data-toolbar=\"-mbrBtnMove\">MALOLOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-b7\" data-toolbar=\"-mbrBtnMove\">PASAY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-b8\" data-toolbar=\"-mbrBtnMove\">N. EDSA</a>",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet"
         },
         {
           "_tags": [
@@ -3439,7 +3442,7 @@
             }
           },
           "title": "CCF KATIPUNAN",
-          "text": "FBR Arcade, Katipunan Ave., Loyola Heights, Quezon City, Metro Manila<br><br>Office: +63 (2) 866 99 85<br>Globe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>Sun: +63 (942) 307 6600<br>",
+          "text": "FBR Arcade, Katipunan Ave., Loyola Heights, Quezon City, Metro Manila<br><br>Office: +63 (2) 866 99 85<br>Globe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"participate\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOIN</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.google.com/maps/dir//Christ's+Commission+Fellowship,+Katipunan,+Quezon+City,+NCR,+Philippines/@14.6393314,121.073136,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3397b77f4f170157:0x54d9e28eb77833e2!2m2!1d121.074231!2d14.639251\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET DIRECTIONS</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.facebook.com/ghkatipunan/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>PAGE</a>"
         },
         {
@@ -3744,7 +3747,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "0.75",
+            "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3826,7 +3829,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 11
+        "order": 8
       },
       "components": [
         {
@@ -4197,7 +4200,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 12
+        "order": 9
       },
       "components": [
         {
@@ -4578,7 +4581,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 13
+        "order": 10
       },
       "components": [
         {
@@ -4955,7 +4958,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 14
+        "order": 11
       },
       "components": [
         {
@@ -5332,7 +5335,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 15
+        "order": 12
       },
       "components": [
         {
@@ -5602,7 +5605,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 16
+        "order": 13
       },
       "components": [
         {
@@ -5846,7 +5849,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 8
+        "order": 6
       },
       "components": [
         {
@@ -5889,7 +5892,7 @@
             }
           },
           "title": "USAPANG HUGOT",
-          "text": "Real stories of hope, forgiveness and healing unite and inspire us. <br><br>Listen to Usapang Hugot every Sunday from 6:00 to 7:00 PM at AM radio <a href=\"https://www.facebook.com/pg/dwiz882/videos\" target=\"_blank\" class=\"text-warning\">DWIZ 882</a>.",
+          "text": "Real stories of hope, forgiveness and healing unite and inspire us. <br><br>Listen to Usapang Hugot every Sunday from 6:00 to 7:00 PM at AM radio <a href=\"http://www.dwiz882am.com/\" target=\"_blank\" class=\"text-warning\">DWIZ 882</a>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"usapang-hugot#msg-box8-ab\" data-toolbar=\"-mbrBtnMove\">WATCH</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://glorioushopeblog.wordpress.com/category/gh-radio/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SHOWNOTES</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/GloriousHope\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>SUBSCRIBE</a>",
           "_tags": [
             "Theme"
@@ -6528,7 +6531,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7
+        "order": 16
       },
       "components": [
         {
