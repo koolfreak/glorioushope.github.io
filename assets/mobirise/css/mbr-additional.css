@@ -655,6 +655,10 @@ h6,
 }
 #header1-11 .mbr-section-lead B {
   text-align: left;
+  font-size: 32px;
+}
+#header1-11 .mbr-section-lead DIV {
+  text-align: center;
 }
 #header3-2j .mbr-section-title,
 #header3-2j .mbr-section-subtitle {
