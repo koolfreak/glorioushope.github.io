@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "glorioushope.com",
+    "name": "glorioushope.org.ph",
     "currentPage": "index",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
     },
     "versionFirst": "3.9.2",
     "uniqCompNum": 406,
-    "versionPublish": "4.5.2",
+    "versionPublish": "4.6.3",
     "favicon": "@PROJECT_PATH@/assets/images/icon-128x123.png",
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-91689130-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
@@ -80,7 +80,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -288,7 +288,7 @@
           },
           "text1": "<strong>Address</strong><br>3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;<a href=\"mailto:info.glorioushope@gmail.com\">info.glorioushope@gmail.com</a><br>\nOffice: <a href=\"tel:+63-2-8669985\">+63 (2) 866 9985</a><br>\nGlobe: <a href=\"tel:+63-917-5211527\">+63 (917) 521 1527</a><br>Smart: <a href=\"tel:+63-939-9244596\">+63 (939) 924 4596</a></p><p>Smart: <a href=\"tel:+63-908-6079389\">+63 (908) 607 9389</a></p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
+          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Bay Area Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
         }
       ]
     },
@@ -330,7 +330,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -345,7 +345,7 @@
             "overlayOpacity": "0"
           },
           "title": "GLORIOUS HOPE",
-          "text": "<br>Glorious Hope is a recovery program that helps people deal with their personal issues by gradually uncovering deeply buried childhood hurts that greatly affect how they view themselves, others, their circumstances, and consequently, how they behave.<br><br>This program provides the necessary tools in understanding the relevance of unaddressed hurts in the past and the importance of addressing them in order to let go and move on to fostering spiritual maturity.<br>",
+          "text": "<br>Glorious Hope is a program that equips individuals with life skills to help them understand themselves better, improve their relationships, and have a shift in perspective regarding their circumstances through a 20-week, step-by-step method facilitated by trained life coaches.<br><br>It offers a safe, welcoming environment that encourages openness, self-discovery, and personal growth. This setting also cultivates a culture of acceptance and respect. Glorious Hope redefines \"recovery\" in relation to oneself, others, and ultimately, to God.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"participate\" data-toolbar=\"-mbrBtnMove\">JOIN</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"about-the-program\" data-toolbar=\"-mbrBtnMove\">OUR PROGRAM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"usapang-hugot\" data-toolbar=\"-mbrBtnMove\">USAPANG HUGOT</a>",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet"
         },
@@ -453,7 +453,7 @@
           },
           "text1": "<strong>Address</strong><br>3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;<a href=\"mailto:info.glorioushope@gmail.com\">info.glorioushope@gmail.com</a><br>\nOffice: <a href=\"tel:+63-2-8669985\">+63 (2) 866 9985</a><br>\nGlobe: <a href=\"tel:+63-917-5211527\">+63 (917) 521 1527</a><br>Smart: <a href=\"tel:+63-939-9244596\">+63 (939) 924 4596</a></p><p>Smart: <a href=\"tel:+63-908-6079389\">+63 (908) 607 9389</a></p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
+          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Bay Area Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
         },
         {
           "_styles": {
@@ -586,7 +586,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -630,7 +630,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -674,7 +674,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -707,7 +707,11 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-section-lead B": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "32px"
+            },
+            ".mbr-section-lead DIV": {
+              "text-align": "center"
             }
           },
           "_anchor": "header1-11",
@@ -718,7 +722,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -731,7 +735,7 @@
             "overlayOpacity": 0.5
           },
           "title": "OUR CORE VALUES",
-          "text": "<br>The core values of Glorious Hope define the ministry's beliefs. These values determine the actions of Glorious Hope workers, and their ethics and behavior as they perform ministry duties and tasks.<br><br><b>• Spiritual Discipline<br>• Passion<br>• Growth and Continuous Learning<br>• Teamwork and a Family Environment<br>• Integrity and Authenticity<br>•Psychosocial Spiritual Concept</b><br>",
+          "text": "<br>Part of what unites Christ's Commission Fellowship (CCF) is our common set of values that help guide us with our priorities in our walk with God.<br><br><b>L</b>&nbsp; &nbsp;- ove God, Love others<br><b>O</b>&nbsp; - bey God's word &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br><b>V</b>&nbsp; - olunteer &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><b>E</b>&nbsp; - ngage the family &nbsp; &nbsp; &nbsp; &nbsp;<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"about#header1-v\" data-toolbar=\"-mbrBtnMove\">PURPOSE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"about#header1-z\" data-toolbar=\"-mbrBtnMove\">VISION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"about#header1-10\" data-toolbar=\"-mbrBtnMove\">MISSION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"about#header1-11\" data-toolbar=\"-mbrBtnMove\">CORE VALUES</a>"
         },
         {
@@ -1059,7 +1063,7 @@
           },
           "text1": "<strong>Address</strong><br>3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;<a href=\"mailto:info.glorioushope@gmail.com\">info.glorioushope@gmail.com</a><br>\nOffice: <a href=\"tel:+63-2-8669985\">+63 (2) 866 9985</a><br>\nGlobe: <a href=\"tel:+63-917-5211527\">+63 (917) 521 1527</a><br>Smart: <a href=\"tel:+63-939-9244596\">+63 (939) 924 4596</a></p><p>Smart: <a href=\"tel:+63-908-6079389\">+63 (908) 607 9389</a></p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
+          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Bay Area Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
         }
       ]
     },
@@ -1081,7 +1085,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -1561,7 +1565,7 @@
           },
           "text1": "<strong>Address</strong><br>3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;<a href=\"mailto:info.glorioushope@gmail.com\">info.glorioushope@gmail.com</a><br>\nOffice: <a href=\"tel:+63-2-8669985\">+63 (2) 866 9985</a><br>\nGlobe: <a href=\"tel:+63-917-5211527\">+63 (917) 521 1527</a><br>Smart: <a href=\"tel:+63-939-9244596\">+63 (939) 924 4596</a></p><p>Smart: <a href=\"tel:+63-908-6079389\">+63 (908) 607 9389</a></p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
+          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Bay Area Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
         }
       ]
     },
@@ -2282,7 +2286,7 @@
           },
           "text1": "<strong>Address</strong><br>3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;<a href=\"mailto:info.glorioushope@gmail.com\">info.glorioushope@gmail.com</a><br>\nOffice: <a href=\"tel:+63-2-8669985\">+63 (2) 866 9985</a><br>\nGlobe: <a href=\"tel:+63-917-5211527\">+63 (917) 521 1527</a><br>Smart: <a href=\"tel:+63-939-9244596\">+63 (939) 924 4596</a></p><p>Smart: <a href=\"tel:+63-908-6079389\">+63 (908) 607 9389</a></p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
+          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Bay Area Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
         }
       ]
     },
@@ -2322,7 +2326,7 @@
             "showArrow": true,
             "imageSize": "68",
             "bgImageRadio": true,
-            "bgImage": "file:///Users/mackydayoja/Library/Application%20Support/Mobirise.com/Mobirise/projectData/bg-main-2000x1125_1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -2548,7 +2552,7 @@
           },
           "text1": "<strong>Address</strong><br>3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;<a href=\"mailto:info.glorioushope@gmail.com\">info.glorioushope@gmail.com</a><br>\nOffice: <a href=\"tel:+63-2-8669985\">+63 (2) 866 9985</a><br>\nGlobe: <a href=\"tel:+63-917-5211527\">+63 (917) 521 1527</a><br>Smart: <a href=\"tel:+63-939-9244596\">+63 (939) 924 4596</a></p><p>Smart: <a href=\"tel:+63-908-6079389\">+63 (908) 607 9389</a></p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
+          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Bay Area Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
         }
       ]
     },
@@ -2591,7 +2595,7 @@
             "showText": true,
             "showButtons": true,
             "showArrow": true,
-            "contentAlign": "left",
+            "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/participate-bg-1-2000x1333.jpg",
             "parallax": false,
@@ -2607,7 +2611,7 @@
           },
           "title": "Join as a participant",
           "text": "<br>If you ...<br><br>• are male or female,<br>• are 14 years old or older,<br>• want to be equipped to address personal issues and more,<br><br>you are more than welcome to join us. We are now in more than one location! Click <a href=\"locations\" target=\"_blank\" class=\"text-warning\">HERE</a>&nbsp;to check out the nearest CCF church near you.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/oiJRkiZ6IrtzbykE3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF CENTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/sy9FkfoxJ6c61bMW2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF ALABANG</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/YvfVk4yaRA2bfH602\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF KATIPUNAN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/pZV0YsEUtmQgNpyV2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF MALOLOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/U1vQLfBJk30tKat22\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF PASAY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/f594lm6zikuNOaEw2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF NORTH EDSA</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/oiJRkiZ6IrtzbykE3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF CENTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/sy9FkfoxJ6c61bMW2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF ALABANG</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/YvfVk4yaRA2bfH602\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF KATIPUNAN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/pZV0YsEUtmQgNpyV2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF MALOLOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/U1vQLfBJk30tKat22\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF BAY AREA PASAY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/f594lm6zikuNOaEw2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF NORTH EDSA</a>   "
         },
         {
           "_inherit": "social-buttons2",
@@ -2801,7 +2805,7 @@
           },
           "text1": "<strong>Address</strong><br>3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;<a href=\"mailto:info.glorioushope@gmail.com\">info.glorioushope@gmail.com</a><br>\nOffice: <a href=\"tel:+63-2-8669985\">+63 (2) 866 9985</a><br>\nGlobe: <a href=\"tel:+63-917-5211527\">+63 (917) 521 1527</a><br>Smart: <a href=\"tel:+63-939-9244596\">+63 (939) 924 4596</a></p><p>Smart: <a href=\"tel:+63-908-6079389\">+63 (908) 607 9389</a></p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
+          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Bay Area Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
         }
       ]
     },
@@ -2840,7 +2844,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -2893,7 +2897,7 @@
           },
           "title": "Join as GH Life Coach",
           "text": "If you ...<br><br>• have gone through the Glorious Hope Program,<br>• finished the Glorious Hope run,<br>• obtain a recommendation from your GH Life Coach,<br><br>we invite you to join us in serving God as a GH Life Coach as you share the same comfort God has given you through the program. We encourage you to get involved and reach out to the nearest CCF church near you. Click <a href=\"locations\" target=\"_blank\" class=\"text-warning\">HERE</a>&nbsp;to see the list of participating CCF affiliate churches.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/4rRxFaqOpyL1k5483\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>          "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://manage.glorioushope.org.ph/volunteer/register\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>          "
         },
         {
           "_tags": [
@@ -3204,7 +3208,7 @@
           },
           "text1": "<strong>Address</strong><br>3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;<a href=\"mailto:info.glorioushope@gmail.com\">info.glorioushope@gmail.com</a><br>\nOffice: <a href=\"tel:+63-2-8669985\">+63 (2) 866 9985</a><br>\nGlobe: <a href=\"tel:+63-917-5211527\">+63 (917) 521 1527</a><br>Smart: <a href=\"tel:+63-939-9244596\">+63 (939) 924 4596</a></p><p>Smart: <a href=\"tel:+63-908-6079389\">+63 (908) 607 9389</a></p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
+          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Bay Area Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
         }
       ]
     },
@@ -3245,7 +3249,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -3259,7 +3263,7 @@
           },
           "title": "SATELLITE LOCATIONS",
           "text": "<br>Glorious Hope has 6 locations where you can participate, volunteer, and inquire about the program.<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-2g\" data-toolbar=\"-mbrBtnMove\">CCF CENTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-1h\" data-toolbar=\"-mbrBtnMove\">ALABANG</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-1k\" data-toolbar=\"-mbrBtnMove\">KATIPUNAN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-1l\" data-toolbar=\"-mbrBtnMove\">MALOLOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-b7\" data-toolbar=\"-mbrBtnMove\">PASAY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-b8\" data-toolbar=\"-mbrBtnMove\">N. EDSA</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-2g\" data-toolbar=\"-mbrBtnMove\">CCF CENTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-1h\" data-toolbar=\"-mbrBtnMove\">ALABANG</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-1k\" data-toolbar=\"-mbrBtnMove\">KATIPUNAN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-1l\" data-toolbar=\"-mbrBtnMove\">MALOLOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-b7\" data-toolbar=\"-mbrBtnMove\">BAY AREA PASAY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-b8\" data-toolbar=\"-mbrBtnMove\">N. EDSA</a>",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet"
         },
         {
@@ -3549,8 +3553,8 @@
               "size": 0
             }
           },
-          "title": "CCF PASAY",
-          "text": "Le Parc Events Hall, Macapagal Blvd., Pasay City<br><br>Office: +63 (2) 866 99 85<br>Globe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>",
+          "title": "CCF BAY AREA PASAY",
+          "text": "Cluster M, Blue Bay Walk, EDSA ext. cor. Metrobank Ave., Metro Park, Bay Area CBD, Pasay City<br><br>Office: +63 (2) 866 99 85<br>Globe: +63 (917) 521 1527<br>Smart: +63 (939) 924 4596<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"participate\" data-toolbar=\"-mbrBtnMove\">JOIN</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.google.com/maps/dir//CCF+Bay+Area,+Pasay,+Metro+Manila/@14.5369276,120.9891981,17.42z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3397c959d4aa47c9:0x467a3d446092e056!2m2!1d120.9905162!2d14.5371583\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET DIRECTIONS</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.facebook.com/ghprogram\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>PAGE</a>",
           "_tags": [
             "Theme"
@@ -3818,7 +3822,7 @@
           },
           "text1": "<strong>Address</strong><br>3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;<a href=\"mailto:info.glorioushope@gmail.com\">info.glorioushope@gmail.com</a><br>\nOffice: <a href=\"tel:+63-2-8669985\">+63 (2) 866 9985</a><br>\nGlobe: <a href=\"tel:+63-917-5211527\">+63 (917) 521 1527</a><br>Smart: <a href=\"tel:+63-939-9244596\">+63 (939) 924 4596</a></p><p>Smart: <a href=\"tel:+63-908-6079389\">+63 (908) 607 9389</a></p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
+          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Bay Area Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
         }
       ]
     },
@@ -3856,7 +3860,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -4101,7 +4105,7 @@
           },
           "text1": "<strong>Address</strong><br>3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;<a href=\"mailto:info.glorioushope@gmail.com\">info.glorioushope@gmail.com</a><br>\nOffice: <a href=\"tel:+63-2-8669985\">+63 (2) 866 9985</a><br>\nGlobe: <a href=\"tel:+63-917-5211527\">+63 (917) 521 1527</a><br>Smart: <a href=\"tel:+63-939-9244596\">+63 (939) 924 4596</a></p><p>Smart: <a href=\"tel:+63-908-6079389\">+63 (908) 607 9389</a></p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
+          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Bay Area Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
         },
         {
           "_styles": {
@@ -4570,7 +4574,7 @@
           },
           "text1": "<strong>Address</strong><br>3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;<a href=\"mailto:info.glorioushope@gmail.com\">info.glorioushope@gmail.com</a><br>\nOffice: <a href=\"tel:+63-2-8669985\">+63 (2) 866 9985</a><br>\nGlobe: <a href=\"tel:+63-917-5211527\">+63 (917) 521 1527</a><br>Smart: <a href=\"tel:+63-939-9244596\">+63 (939) 924 4596</a></p><p>Smart: <a href=\"tel:+63-908-6079389\">+63 (908) 607 9389</a></p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
+          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Bay Area Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
         }
       ]
     },
@@ -4947,7 +4951,7 @@
           },
           "text1": "<strong>Address</strong><br>3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;<a href=\"mailto:info.glorioushope@gmail.com\">info.glorioushope@gmail.com</a><br>\nOffice: <a href=\"tel:+63-2-8669985\">+63 (2) 866 9985</a><br>\nGlobe: <a href=\"tel:+63-917-5211527\">+63 (917) 521 1527</a><br>Smart: <a href=\"tel:+63-939-9244596\">+63 (939) 924 4596</a></p><p>Smart: <a href=\"tel:+63-908-6079389\">+63 (908) 607 9389</a></p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
+          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Bay Area Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
         }
       ]
     },
@@ -5324,7 +5328,7 @@
           },
           "text1": "<strong>Address</strong><br>3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;<a href=\"mailto:info.glorioushope@gmail.com\">info.glorioushope@gmail.com</a><br>\nOffice: <a href=\"tel:+63-2-8669985\">+63 (2) 866 9985</a><br>\nGlobe: <a href=\"tel:+63-917-5211527\">+63 (917) 521 1527</a><br>Smart: <a href=\"tel:+63-939-9244596\">+63 (939) 924 4596</a></p><p>Smart: <a href=\"tel:+63-908-6079389\">+63 (908) 607 9389</a></p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
+          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Bay Area Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
         }
       ]
     },
@@ -5363,7 +5367,7 @@
             "paddingTop": "4",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -5594,7 +5598,7 @@
           },
           "text1": "<strong>Address</strong><br>3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;<a href=\"mailto:info.glorioushope@gmail.com\">info.glorioushope@gmail.com</a><br>\nOffice: <a href=\"tel:+63-2-8669985\">+63 (2) 866 9985</a><br>\nGlobe: <a href=\"tel:+63-917-5211527\">+63 (917) 521 1527</a><br>Smart: <a href=\"tel:+63-939-9244596\">+63 (939) 924 4596</a></p><p>Smart: <a href=\"tel:+63-908-6079389\">+63 (908) 607 9389</a></p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
+          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Bay Area Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
         }
       ]
     },
@@ -5838,7 +5842,7 @@
           },
           "text1": "<strong>Address</strong><br>3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;<a href=\"mailto:info.glorioushope@gmail.com\">info.glorioushope@gmail.com</a><br>\nOffice: <a href=\"tel:+63-2-8669985\">+63 (2) 866 9985</a><br>\nGlobe: <a href=\"tel:+63-917-5211527\">+63 (917) 521 1527</a><br>Smart: <a href=\"tel:+63-939-9244596\">+63 (939) 924 4596</a></p><p>Smart: <a href=\"tel:+63-908-6079389\">+63 (908) 607 9389</a></p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
+          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Bay Area Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
         }
       ]
     },
@@ -5861,7 +5865,7 @@
             "showArrow": true,
             "imageSize": "54",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -6044,7 +6048,7 @@
           "title3": "Talikuran ang Problema",
           "subtitle3": "Fea Sugay",
           "caption3": "Ang pangunahing dahilan kung bakit ang mga teen-ager ay tinatalikuran ang kanilang problema ay da...",
-          "title4": "Talikuran ang Problema",
+          "title4": "Suicide Is Painless",
           "subtitle4": "Jennifer",
           "caption4": "Karamihan sa mga tao na sineseryosong isaalang-alang ang pagpapakamatay ay hindi gustong mamatay...",
           "title5": "Litong-Lito",
@@ -6520,7 +6524,7 @@
           },
           "text1": "<strong>Address</strong><br>3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;<a href=\"mailto:info.glorioushope@gmail.com\">info.glorioushope@gmail.com</a><br>\nOffice: <a href=\"tel:+63-2-8669985\">+63 (2) 866 9985</a><br>\nGlobe: <a href=\"tel:+63-917-5211527\">+63 (917) 521 1527</a><br>Smart: <a href=\"tel:+63-939-9244596\">+63 (939) 924 4596</a></p><p>Smart: <a href=\"tel:+63-908-6079389\">+63 (908) 607 9389</a></p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
+          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Bay Area Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>"
         }
       ]
     },
@@ -6560,7 +6564,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -6576,7 +6580,7 @@
           },
           "title": "GH VOLUNTEER FORM",
           "text": "<br>Thank you for your desire to volunteer as a GH worker. Please fill up the volunteer form by clicking <b>REGISTER</b>.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScFBi_RrepGZRun5-9lUlgG31qpFGgnZcF3P1_fdJwLtZKPZw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>   ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://manage.glorioushope.org.ph/volunteer/register\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>   ",
           "_anchor": "header1-9f"
         },
         {
@@ -6682,7 +6686,7 @@
           },
           "text1": "<strong>Address</strong><br>3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;<a href=\"mailto:info.glorioushope@gmail.com\">info.glorioushope@gmail.com</a><br>\nOffice: <a href=\"tel:+63-2-8669985\">+63 (2) 866 9985</a><br>\nGlobe: <a href=\"tel:+63-917-5211527\">+63 (917) 521 1527</a><br>Smart: <a href=\"tel:+63-939-9244596\">+63 (939) 924 4596</a></p><p>Smart: <a href=\"tel:+63-908-6079389\">+63 (908) 607 9389</a></p>",
-          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>",
+          "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Bay Area Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>",
           "_anchor": "contacts1-9i"
         },
         {
