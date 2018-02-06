@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.org.ph",
-    "currentPage": "index",
+    "currentPage": "volunteer-form.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -30,15 +30,12 @@
       ]
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 406,
+    "uniqCompNum": 426,
     "versionPublish": "4.6.3",
     "favicon": "@PROJECT_PATH@/assets/images/icon-128x123.png",
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-91689130-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "cookiesAlert": "",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -50,7 +47,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 14
+        "order": 16
       },
       "components": [
         {
@@ -2297,7 +2294,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 15
+        "order": 17
       },
       "components": [
         {
@@ -3263,7 +3260,7 @@
           },
           "title": "SATELLITE LOCATIONS",
           "text": "<br>Glorious Hope has 6 locations where you can participate, volunteer, and inquire about the program.<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-2g\" data-toolbar=\"-mbrBtnMove\">CCF CENTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-1h\" data-toolbar=\"-mbrBtnMove\">ALABANG</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-1k\" data-toolbar=\"-mbrBtnMove\">KATIPUNAN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-1l\" data-toolbar=\"-mbrBtnMove\">MALOLOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-b7\" data-toolbar=\"-mbrBtnMove\">BAY AREA PASAY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-b8\" data-toolbar=\"-mbrBtnMove\">N. EDSA</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-2g\" data-toolbar=\"-mbrBtnMove\">CCF CENTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-1h\" data-toolbar=\"-mbrBtnMove\">ALABANG</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-1k\" data-toolbar=\"-mbrBtnMove\">KATIPUNAN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-1l\" data-toolbar=\"-mbrBtnMove\">MALOLOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-b7\" data-toolbar=\"-mbrBtnMove\">BAY AREA PASAY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"locations#msg-box5-b8\" data-toolbar=\"-mbrBtnMove\">NORTH EDSA</a>",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet"
         },
         {
@@ -5609,7 +5606,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 13
+        "order": 15
       },
       "components": [
         {
@@ -6528,14 +6525,14 @@
         }
       ]
     },
-    ".volunteer-form.html": {
+    "volunteer-form.html": {
       "settings": {
         "title": "Glorious Hope - Volunteer Form",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 16
+        "order": 14
       },
       "components": [
         {
@@ -6581,7 +6578,7 @@
           "title": "GH VOLUNTEER FORM",
           "text": "<br>Thank you for your desire to volunteer as a GH worker. Please fill up the volunteer form by clicking <b>REGISTER</b>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://manage.glorioushope.org.ph/volunteer/register\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>   ",
-          "_anchor": "header1-9f"
+          "_anchor": "header1-bp"
         },
         {
           "_inherit": "social-buttons2",
@@ -6612,7 +6609,7 @@
           },
           "text": "FOLLOW US",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"http://facbook.com/ghprogram\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/GloriousHope\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/glorious.hope/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://twitter.com/GloriousHopeCCF\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>     ",
-          "_anchor": "social-buttons4-9g"
+          "_anchor": "social-buttons4-bq"
         },
         {
           "_tags": [
@@ -6638,7 +6635,7 @@
             "overlayOpacity": 0.8
           },
           "text": "©  2016-2018 Glorious Hope",
-          "_anchor": "footer1-9h"
+          "_anchor": "footer1-br"
         },
         {
           "_tags": [
@@ -6687,7 +6684,7 @@
           "text1": "<strong>Address</strong><br>3F CCF Center Frontera Verde<br>\nOrtigas Avenue corner C5 Road<br>Pasig City, Metro Manila<br>Philippines 1605",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;<a href=\"mailto:info.glorioushope@gmail.com\">info.glorioushope@gmail.com</a><br>\nOffice: <a href=\"tel:+63-2-8669985\">+63 (2) 866 9985</a><br>\nGlobe: <a href=\"tel:+63-917-5211527\">+63 (917) 521 1527</a><br>Smart: <a href=\"tel:+63-939-9244596\">+63 (939) 924 4596</a></p><p>Smart: <a href=\"tel:+63-908-6079389\">+63 (908) 607 9389</a></p>",
           "text3": "<p><strong>Locations</strong><br><a href=\"locations#msg-box5-2g\" target=\"_blank\">CCF Center</a><a href=\"https://www.facebook.com/ghccfcenter/\" target=\"_blank\"></a><a href=\"http://facebook.com/ghprogram\" target=\"_blank\" class=\"text-primary\"></a><br>\n<a href=\"locations#msg-box5-1h\" target=\"_blank\">CCF Alabang</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"locations#msg-box5-1k\" target=\"_blank\">CCF Katipunan</a></p><p><a href=\"locations#msg-box5-1l\" target=\"_blank\">CCF Malolos</a><br><a class=\"text-primary\" href=\"locations#msg-box5-b7\" target=\"_blank\">CCF Bay Area Pasay</a><br><a href=\"locations#msg-box5-b8\" target=\"_blank\">CCF North EDSA</a></p>",
-          "_anchor": "contacts1-9i"
+          "_anchor": "contacts1-bs"
         },
         {
           "_styles": {
@@ -6775,7 +6772,7 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about\">About The Ministry</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about-the-program\">About The Program</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about-the-program#msg-box8-6p\">FAQs</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"join\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">JOIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"participate\">Participant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"volunteer#lifecoach\">GH Life Coach</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"volunteer#mmc\">Marketing, Media &amp; Communications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"volunteer#events\">Events &amp; Logistics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"volunteer#secretariat\">Secretariat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"usapang-hugot\">USAPANG HUGOT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://glorioushopeblog.wordpress.com/blog/\" target=\"_blank\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"locations\" aria-expanded=\"false\">LOCATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"give\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://drive.google.com/open?id=0B2DyJ2rD7tiTaWo3Q2FYNW1mams\" target=\"_blank\">DOWNLOAD eBOOK</a></li>",
-          "_anchor": "menu-9j"
+          "_anchor": "menu-bt"
         }
       ]
     }
