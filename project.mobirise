@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.org.ph",
-    "currentPage": "join",
+    "currentPage": "participate",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -36,9 +36,6 @@
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-91689130-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "cookiesAlert": "",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -219,7 +216,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -528,7 +525,7 @@
             "bgColor": "#f7da64",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -994,7 +991,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -1500,7 +1497,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -2221,7 +2218,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -2487,7 +2484,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -2615,7 +2612,7 @@
           },
           "title": "Join as a participant",
           "text": "<br>If you ...<br><br>• are male or female,<br>• are 14 years old or older,<br>• want to be equipped to address personal issues and more,<br><br>you are more than welcome to join us. We are now in more than one location! Click <a href=\"locations\" target=\"_blank\" class=\"text-warning\">HERE</a>&nbsp;to check out the nearest CCF church near you.<br><br>Orientation start dates are as follows:<br>CCF Katipunan - April 21, 2018<br>CCF Center - May 5, 2018<br>CCF Malolos - May 12, 2018<br>CCF Alabang - May 26, 2018<br>CCF Bay Area - June 2, 2018 <br>CCF North EDSA - June 16, 2018",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/oiJRkiZ6IrtzbykE3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF CENTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/sy9FkfoxJ6c61bMW2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF ALABANG</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/YvfVk4yaRA2bfH602\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF KATIPUNAN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/pZV0YsEUtmQgNpyV2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF MALOLOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/U1vQLfBJk30tKat22\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF BAY AREA PASAY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/f594lm6zikuNOaEw2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF NORTH EDSA</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/oiJRkiZ6IrtzbykE3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF CENTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/sy9FkfoxJ6c61bMW2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF ALABANG</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/YvfVk4yaRA2bfH602\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF KATIPUNAN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/pZV0YsEUtmQgNpyV2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF MALOLOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/U1vQLfBJk30tKat22\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF BAY AREA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/f594lm6zikuNOaEw2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF NORTH EDSA</a>   "
         },
         {
           "_inherit": "social-buttons2",
@@ -2683,13 +2680,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-family": "'Oxygen', sans-serif"
             },
@@ -2712,7 +2709,7 @@
               "background": "#f7da64"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2740,7 +2737,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -3143,7 +3140,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -3757,7 +3754,7 @@
             "bgColor": "#f7da64",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -4177,7 +4174,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -4509,7 +4506,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -4886,7 +4883,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -5263,7 +5260,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -5534,7 +5531,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -5778,7 +5775,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -6460,7 +6457,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -6759,7 +6756,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
