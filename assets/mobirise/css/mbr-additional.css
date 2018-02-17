@@ -1050,15 +1050,15 @@ h6,
   color: #ffffff;
 }
 #menu-66 .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #menu-66 .close-icon::before,
 #menu-66 .close-icon::after {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 #menu-66 .link,
 #menu-66 .dropdown-item {
-  color: #000000;
+  color: #ffffff;
   font-family: 'Oxygen', sans-serif;
 }
 #menu-66 .link {
@@ -1091,7 +1091,7 @@ h6,
   background: #f7da64;
 }
 #menu-66 .bg-color.transparent .link {
-  color: #000000;
+  color: #ffffff;
   transition: none;
 }
 #menu-66 .bg-color.transparent.opened .link {
