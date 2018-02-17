@@ -216,7 +216,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -525,7 +525,7 @@
             "bgColor": "#f7da64",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -991,7 +991,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -1497,7 +1497,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -2218,7 +2218,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -2484,7 +2484,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -2575,13 +2575,13 @@
           "_styles": {
             ".mbr-section-lead": {
               "font-size": "18px",
-              "color": "#ffffff",
+              "color": "#232323",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "left"
             },
             ".mbr-section-title": {
-              "color": "#ffffff",
+              "color": "#232323",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "left"
@@ -2598,7 +2598,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/participate-bg-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/participate-bg-2-2000x1333.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -2606,12 +2606,12 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#000",
+            "overlay": false,
+            "overlayColor": "#ffffff",
             "overlayOpacity": "0.5"
           },
           "title": "Join as a participant",
-          "text": "<br>If you ...<br><br>• are male or female,<br>• are 14 years old or older,<br>• want to be equipped to address personal issues and more,<br><br>you are more than welcome to join us. We are now in more than one location! Click <a href=\"locations\" target=\"_blank\" class=\"text-warning\">HERE</a>&nbsp;to check out the nearest CCF church near you.<br><br>Orientation start dates are as follows:<br>CCF Katipunan - April 21, 2018<br>CCF Center - May 5, 2018<br>CCF Malolos - May 12, 2018<br>CCF Alabang - May 26, 2018<br>CCF Bay Area - June 2, 2018 <br>CCF North EDSA - June 16, 2018",
+          "text": "<br>If you ...<br><br>• are male or female,<br>• are 14 years old or older,<br>• want to be equipped to address personal issues and more,<br><br>you are more than welcome to join us. We are now in more than one location! Click <a href=\"locations\" target=\"_blank\" class=\"text-warning\">HERE</a>&nbsp;to check out the nearest CCF church near you.<br><br><b>Orientation start dates are as follows:</b><br>CCF Katipunan - April 21, 2018<br>CCF Center - May 5, 2018<br>CCF Malolos - May 12, 2018<br>CCF Alabang - May 26, 2018<br>CCF Bay Area - June 2, 2018 <br>CCF North EDSA - June 16, 2018",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/oiJRkiZ6IrtzbykE3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF CENTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/sy9FkfoxJ6c61bMW2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF ALABANG</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/YvfVk4yaRA2bfH602\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF KATIPUNAN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/pZV0YsEUtmQgNpyV2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF MALOLOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/U1vQLfBJk30tKat22\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF BAY AREA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/f594lm6zikuNOaEw2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF NORTH EDSA</a>   "
         },
         {
@@ -2680,13 +2680,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-family": "'Oxygen', sans-serif"
             },
@@ -2709,7 +2709,7 @@
               "background": "#f7da64"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2737,7 +2737,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -3140,7 +3140,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -3754,7 +3754,7 @@
             "bgColor": "#f7da64",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -4174,7 +4174,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -4506,7 +4506,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -4883,7 +4883,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -5260,7 +5260,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -5531,7 +5531,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -5775,7 +5775,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -6457,7 +6457,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -6756,7 +6756,7 @@
             "bgColor": "#f7da64",
             "fontSize": "0.75",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
