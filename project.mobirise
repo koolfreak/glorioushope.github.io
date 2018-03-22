@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 432,
+    "uniqCompNum": 433,
     "versionPublish": "4.6.6",
     "favicon": "@PROJECT_PATH@/assets/images/icon-128x123.png",
     "noImageResize": "",
@@ -305,44 +305,27 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
             },
-            ".btn": {
-              "font-size": "15px"
+            "video": {
+              "src": "https://www.youtube.com/watch?v=WolXZ4D5Prk",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
             }
           },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/WolXZ4D5Prk?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/WolXZ4D5Prk",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": false,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
-          },
-          "title": "",
-          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"volunteer\" data-toolbar=\"-mbrBtnMove\">JOIN</a>",
+          "text": "Scroll down to know more about the Glorious Hope Program",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-bz"
+          "_name": "image1",
+          "_anchor": "image1-c0"
         },
         {
           "_tags": [
