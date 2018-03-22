@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 431,
+    "uniqCompNum": 432,
     "versionPublish": "4.6.6",
     "favicon": "@PROJECT_PATH@/assets/images/icon-128x123.png",
     "noImageResize": "",
@@ -305,6 +305,46 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/WolXZ4D5Prk?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/WolXZ4D5Prk",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"volunteer\" data-toolbar=\"-mbrBtnMove\">JOIN</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-bz"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -337,8 +377,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/BZqyP78Ensw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/BZqyP78Ensw",
+              "url": "https://www.youtube.com/embed/WolXZ4D5Prk?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/WolXZ4D5Prk",
               "width": 1280,
               "height": 720
             },
