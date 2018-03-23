@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.org.ph",
-    "currentPage": "index",
+    "currentPage": "about",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -30,8 +30,8 @@
       ]
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 433,
-    "versionPublish": "4.6.6",
+    "uniqCompNum": 427,
+    "versionPublish": "4.6.3",
     "favicon": "@PROJECT_PATH@/assets/images/icon-128x123.png",
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-91689130-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
@@ -40,8 +40,7 @@
     "publishType": "local",
     "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "siteUrl": "undefined"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "under-construction": {
@@ -81,7 +80,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -152,7 +151,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -305,29 +304,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=WolXZ4D5Prk",
-              "autoplay": "on",
-              "loop": "on",
-              "active": true
-            }
-          },
-          "text": "Scroll down to know more about the Glorious Hope Program",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-c0"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -360,8 +336,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/WolXZ4D5Prk?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/WolXZ4D5Prk",
+              "url": "https://www.youtube.com/embed/BZqyP78Ensw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/embed/BZqyP78Ensw?rel=0&showinfo=0&autoplay=0&loop=0",
               "width": 1280,
               "height": 720
             },
@@ -429,7 +405,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_tags": [
@@ -611,7 +587,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -621,7 +597,7 @@
             },
             "overlay": false,
             "overlayColor": "#000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": 0.5
           },
           "title": "OUR PURPOSE",
           "text": "<br>Glorious Hope aims to liberate people from the bondage of destructive hurts,&nbsp;habits, and hang-ups through our&nbsp;Lord Jesus Christ.&nbsp;It is a discipleship tool that equips participants&nbsp;to exercise their victory over common life problems.<br>",
@@ -655,7 +631,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -699,7 +675,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -712,7 +688,7 @@
             "overlayOpacity": 0.5
           },
           "title": "OUR MISSION",
-          "text": "<br>To comfort people the way God comforted us so that they also can comfort other people.<br><br><i>\"Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort,&nbsp;who comforts us in all our affliction so that we will be able to comfort those who are in any affliction with the comfort with which&nbsp;we ourselves are comforted by God.\"<br><br><br>•&nbsp;2 Corinthians 1:3-4&nbsp;•</i>",
+          "text": "<br>To comfort people the way God comforted us so that they also can comfort other people.<br><br><i>\"Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort,&nbsp;who comforts us in all our affliction so that we will be able to comfort those in any affliction&nbsp;so that we will be able to comfort those who are in any affliction with the comfort with which&nbsp;we ourselves are comforted by God.\"<br><br><br>•&nbsp;2 Corinthians 1:3-4&nbsp;•</i>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"about#header1-v\" data-toolbar=\"-mbrBtnMove\">PURPOSE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"about#header1-z\" data-toolbar=\"-mbrBtnMove\">VISION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"about#header1-10\" data-toolbar=\"-mbrBtnMove\">MISSION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"about#header1-11\" data-toolbar=\"-mbrBtnMove\">CORE VALUES</a>"
         },
         {
@@ -747,7 +723,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -951,7 +927,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -1110,7 +1086,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -1175,43 +1151,6 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "text-align": "left",
-              "font-size": "24px"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": "1",
-            "bgColor": "#fff"
-          },
-          "title": "1. How do I register in the Glorious Hope Program?",
-          "meta": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-bv"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "You can choose from 6 CCF satellites where the Glorious Hope Program is available. Just click <a href=\"participate\" target=\"_blank\">HERE</a> to register online.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-bw"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -1222,7 +1161,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<h4>2. Why should I attend Glorious Hope?</h4>"
+          "text": "<h4>1. Why should I attend Glorious Hope?</h4>"
         },
         {
           "_tags": [
@@ -1248,7 +1187,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<h4>3. Who benefit from Glorious Hope?</h4>"
+          "text": "<h4>2. Who benefit from Glorious Hope?</h4>"
         },
         {
           "_tags": [
@@ -1274,7 +1213,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<h4>4. What can I learn from the Glorious Hope Program?</h4>"
+          "text": "<h4>3. What can I learn from the Glorious Hope Program?</h4>"
         },
         {
           "_tags": [
@@ -1300,7 +1239,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<h4>5. What activities can I expect every week?</h4>"
+          "text": "<h4>4. What activities can I expect every week?</h4>"
         },
         {
           "_tags": [
@@ -1326,7 +1265,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<h4>6. What materials are used in Glorious Hope?</h4>"
+          "text": "<h4>5. What materials are used in Glorious Hope?</h4>"
         },
         {
           "_tags": [
@@ -1352,7 +1291,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<h4>7. How long is the program?</h4>"
+          "text": "<h4>6. How long is the program?</h4>"
         },
         {
           "_tags": [
@@ -1378,7 +1317,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<h4>8. How much is the fee?</h4>"
+          "text": "<h4>7. How much is the fee?</h4>"
         },
         {
           "_tags": [
@@ -1404,7 +1343,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<h4>9. What are some of the issues discussed in Glorious Hope?</h4>"
+          "text": "<h4>8. What are some of the issues discussed in Glorious Hope?</h4>"
         },
         {
           "_tags": [
@@ -1494,7 +1433,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -1937,7 +1876,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_tags": [
@@ -2390,9 +2329,9 @@
             "showButtons": true,
             "inverse": false,
             "showArrow": true,
-            "imageSize": "46",
+            "imageSize": "68",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -2481,7 +2420,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -2663,7 +2602,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/participate-bg-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/participate-bg-2-2000x1333.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -2676,7 +2615,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "Join as a participant",
-          "text": "<br>If you ...<br><br>• are male or female,<br>• are 14 years old or older,<br>• want to be equipped to address personal issues and more,<br><br>you are more than welcome to join us. We are now in more than one location! Click <a href=\"locations\" target=\"_blank\" class=\"text-primary\">HERE</a>&nbsp;to check out the nearest CCF church near you.<br><br><b>Orientation start dates are as follows:</b><br>CCF Katipunan - April 21, 2018<br>CCF Center - May 5, 2018<br>CCF Malolos - May 12, 2018<br>CCF Alabang - May 26, 2018<br>CCF Bay Area - June 2, 2018 <br>CCF North EDSA - June 16, 2018",
+          "text": "<br>If you ...<br><br>• are male or female,<br>• are 14 years old or older,<br>• want to be equipped to address personal issues and more,<br><br>you are more than welcome to join us. We are now in more than one location! Click <a href=\"locations\" target=\"_blank\" class=\"text-warning\">HERE</a>&nbsp;to check out the nearest CCF church near you.<br><br><b>Orientation start dates are as follows:</b><br>CCF Katipunan - April 21, 2018<br>CCF Center - May 5, 2018<br>CCF Malolos - May 12, 2018<br>CCF Alabang - May 26, 2018<br>CCF Bay Area - June 2, 2018 <br>CCF North EDSA - June 16, 2018",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/oiJRkiZ6IrtzbykE3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF CENTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/sy9FkfoxJ6c61bMW2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF ALABANG</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/YvfVk4yaRA2bfH602\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF KATIPUNAN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/pZV0YsEUtmQgNpyV2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF MALOLOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/U1vQLfBJk30tKat22\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF BAY AREA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/f594lm6zikuNOaEw2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CCF NORTH EDSA</a>   "
         },
         {
@@ -2734,7 +2673,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -2910,7 +2849,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -2924,7 +2863,7 @@
           },
           "title": "Serve God, be a blessing.",
           "text": "Thank you for your interest in joining us at Glorious Hope!<br><br>There are several ways you can serve:",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"volunteer#header1-8c\" data-toolbar=\"-mbrBtnMove\">GH LIFE COACH</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"volunteer#header1-8d\" data-toolbar=\"-mbrBtnMove\">MARKETING &amp; MEDIA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"volunteer#header1-8e\" data-toolbar=\"-mbrBtnMove\">EVENTS &amp; LOGISTICS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"volunteer#header1-8p\" data-toolbar=\"-mbrBtnMove\">SECRETARIAT</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"volunteer#header1-8c\" data-toolbar=\"-mbrBtnMove\">GH LIFE COACH</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"volunteer#header1-8d\" data-toolbar=\"-mbrBtnMove\">MARKETING &amp; MEDIA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"volunteer#header1-8e\" data-toolbar=\"-mbrBtnMove\">EVENTS &amp; LOGISTICS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"volunteer#header1-8p\" data-toolbar=\"-mbrBtnMove\">SECRETARIAT</a>"
         },
         {
           "_tags": [
@@ -3002,7 +2941,7 @@
           },
           "title": "Join in GH Marketing, Media &amp; Communications Team",
           "text": "If you ...<br><br>• are male or female,<br>• are 15 years old or older,<br><br>we invite all creative minds to join us in serving God as in GH Marketing, Media &amp; Communications Team as you share the talent and skills that God has given you to be a blessing to others.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://manage.glorioushope.org.ph/volunteer/register\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScmWwyevq6CjmhyG4gy37b9ssyrZvIMeMbkfJ8dITmV9kq5zQ/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a> "
         },
         {
           "_tags": [
@@ -3041,7 +2980,7 @@
           },
           "title": "Join in GH Events &amp; Logistics Team",
           "text": "If you ...<br><br>• are male or female,<br>• are 15 years old or older,<br><br>we invite you to join us in serving God in GH Events &amp; Logistics Team. Register now to see the list of groups that you can be a part with.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://manage.glorioushope.org.ph/volunteer/register\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSekuT-n5FxOfNvmCTGk7v0U29HFBS5gndzalLrCqzUpkHokAA/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a> "
         },
         {
           "_tags": [
@@ -3080,7 +3019,7 @@
           },
           "title": "Join in GH Secretariat Team",
           "text": "If you ...<br><br>• are male or female,<br>• are 15 years old or older,<br>• knowledgable in Excel or Spreadsheets,<br>• organized and has a keen attention to detail,<br><br>we invite you to join us in serving God in GH Secretariat Team.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://manage.glorioushope.org.ph/volunteer/register\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSflgReChlaYR6KbiuuwVDMedSo1xIQgOhND0GvhzeTCdLoVmw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a> "
         },
         {
           "_inherit": "social-buttons2",
@@ -3137,7 +3076,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -3315,7 +3254,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -3751,7 +3690,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -3926,7 +3865,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -4122,7 +4061,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_tags": [
@@ -4503,7 +4442,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -4880,7 +4819,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -5257,7 +5196,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -5434,7 +5373,7 @@
             "paddingTop": "4",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -5528,7 +5467,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -5772,7 +5711,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -5783,13 +5722,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-family": "'Oxygen', sans-serif"
             },
@@ -5803,16 +5742,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#f4ce34"
+              "background": "#0e0e0e"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f6d755!important"
+              "background": "#202020!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#f7da64"
+              "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -5932,7 +5871,7 @@
             "showArrow": true,
             "imageSize": "54",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@assets/images/bg-main-1-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -6454,7 +6393,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -6631,7 +6570,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-main-1-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -6704,7 +6643,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry",
+          "text": "©  2016-2018 Glorious Hope",
           "_anchor": "footer1-br"
         },
         {

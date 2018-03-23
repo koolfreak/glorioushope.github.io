@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 433,
+    "uniqCompNum": 431,
     "versionPublish": "4.6.6",
     "favicon": "@PROJECT_PATH@/assets/images/icon-128x123.png",
     "noImageResize": "",
@@ -305,29 +305,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=WolXZ4D5Prk",
-              "autoplay": "on",
-              "loop": "on",
-              "active": true
-            }
-          },
-          "text": "Scroll down to know more about the Glorious Hope Program",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-c0"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -360,8 +337,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/WolXZ4D5Prk?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/WolXZ4D5Prk",
+              "url": "https://www.youtube.com/embed/BZqyP78Ensw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/BZqyP78Ensw",
               "width": 1280,
               "height": 720
             },

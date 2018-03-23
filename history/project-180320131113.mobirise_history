@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "glorioushope.org.ph",
-    "currentPage": "index",
+    "currentPage": "locations",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -30,8 +30,8 @@
       ]
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 433,
-    "versionPublish": "4.6.6",
+    "uniqCompNum": 429,
+    "versionPublish": "4.6.3",
     "favicon": "@PROJECT_PATH@/assets/images/icon-128x123.png",
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-91689130-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
@@ -40,8 +40,7 @@
     "publishType": "local",
     "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "siteUrl": "undefined"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "under-construction": {
@@ -152,7 +151,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -305,29 +304,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=WolXZ4D5Prk",
-              "autoplay": "on",
-              "loop": "on",
-              "active": true
-            }
-          },
-          "text": "Scroll down to know more about the Glorious Hope Program",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-c0"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -360,8 +336,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/WolXZ4D5Prk?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/WolXZ4D5Prk",
+              "url": "https://www.youtube.com/embed/BZqyP78Ensw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/embed/BZqyP78Ensw?rel=0&showinfo=0&autoplay=0&loop=0",
               "width": 1280,
               "height": 720
             },
@@ -429,7 +405,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_tags": [
@@ -712,7 +688,7 @@
             "overlayOpacity": 0.5
           },
           "title": "OUR MISSION",
-          "text": "<br>To comfort people the way God comforted us so that they also can comfort other people.<br><br><i>\"Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort,&nbsp;who comforts us in all our affliction so that we will be able to comfort those who are in any affliction with the comfort with which&nbsp;we ourselves are comforted by God.\"<br><br><br>•&nbsp;2 Corinthians 1:3-4&nbsp;•</i>",
+          "text": "<br>To comfort people the way God comforted us so that they also can comfort other people.<br><br><i>\"Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort,&nbsp;who comforts us in all our affliction so that we will be able to comfort those in any affliction&nbsp;so that we will be able to comfort those who are in any affliction with the comfort with which&nbsp;we ourselves are comforted by God.\"<br><br><br>•&nbsp;2 Corinthians 1:3-4&nbsp;•</i>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"about#header1-v\" data-toolbar=\"-mbrBtnMove\">PURPOSE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"about#header1-z\" data-toolbar=\"-mbrBtnMove\">VISION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"about#header1-10\" data-toolbar=\"-mbrBtnMove\">MISSION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"about#header1-11\" data-toolbar=\"-mbrBtnMove\">CORE VALUES</a>"
         },
         {
@@ -951,7 +927,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -1494,7 +1470,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -1937,7 +1913,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_tags": [
@@ -2481,7 +2457,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -2734,7 +2710,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -3137,7 +3113,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -3751,7 +3727,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -4122,7 +4098,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_tags": [
@@ -4503,7 +4479,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -4880,7 +4856,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -5257,7 +5233,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -5528,7 +5504,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -5772,7 +5748,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -6454,7 +6430,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry"
+          "text": "©  2016-2018 Glorious Hope"
         },
         {
           "_styles": {
@@ -6704,7 +6680,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "©  2016 Glorious Hope Ministry",
+          "text": "©  2016-2018 Glorious Hope",
           "_anchor": "footer1-br"
         },
         {

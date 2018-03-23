@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 433,
+    "uniqCompNum": 431,
     "versionPublish": "4.6.6",
     "favicon": "@PROJECT_PATH@/assets/images/icon-128x123.png",
     "noImageResize": "",
@@ -40,8 +40,7 @@
     "publishType": "local",
     "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "siteUrl": "undefined"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "under-construction": {
@@ -305,29 +304,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=WolXZ4D5Prk",
-              "autoplay": "on",
-              "loop": "on",
-              "active": true
-            }
-          },
-          "text": "Scroll down to know more about the Glorious Hope Program",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-c0"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -360,8 +336,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/WolXZ4D5Prk?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/WolXZ4D5Prk",
+              "url": "https://www.youtube.com/embed/BZqyP78Ensw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/BZqyP78Ensw",
               "width": 1280,
               "height": 720
             },
@@ -373,6 +349,40 @@
           "text": "<br>Glorious Hope is a program that equips individuals with life skills to help them understand themselves better, improve their relationships, and have a shift in perspective regarding their circumstances through a 20-week, step-by-step method facilitated by trained life coaches.<br><br>It offers a safe, welcoming environment that encourages openness, self-discovery, and personal growth. This setting also cultivates a culture of acceptance and respect. Glorious Hope redefines \"recovery\" in relation to oneself, others, and ultimately, to God.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"participate\" data-toolbar=\"-mbrBtnMove\">JOIN</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"about-the-program\" data-toolbar=\"-mbrBtnMove\">OUR PROGRAM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"usapang-hugot\" data-toolbar=\"-mbrBtnMove\">USAPANG HUGOT</a>",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.2"
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-by"
         },
         {
           "_inherit": "social-buttons2",
